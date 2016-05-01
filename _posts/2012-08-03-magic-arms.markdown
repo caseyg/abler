@@ -1,0 +1,20 @@
+---
+author: sarahendren
+comments: true
+date: 2012-08-03 01:19:19+00:00
+layout: post
+link: http://ablersite.org/2012/08/02/magic-arms/
+slug: magic-arms
+title: magic arms
+wordpress_id: 2913
+categories:
+- Uncategorized
+---
+
+[![a close up of the 3 year old subject wearing her exoskeleton technology](http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg)](http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg)
+
+This is the best example I've seen of 3D printed material—where its lightweight nature is precisely the thing that's called for, and where customization is paramount. I do wish these videos would cease with the piano-for-the-disabled music, but boy: this is something. Via [John Schimmel](http://www.base2john.com/prjcts/index.php/ramps); thumbnail [via](http://www.behance.net/gallery/Magic-Arms/4696913).
+
+[vimeo 43254602 w=500 h=281]
+
+[Magic Arms](http://vimeo.com/43254602) from [Eric Jenson](http://vimeo.com/jenson) on [Vimeo](http://vimeo.com).
