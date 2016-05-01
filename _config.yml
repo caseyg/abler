@@ -6,7 +6,7 @@ collections:
   guides:
     title: Guides
     output: true
-  "-":
+  posts:
     title: Posts
     output: true
   uploads:
