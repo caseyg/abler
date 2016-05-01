@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-09-25 19:16:48+00:00
-layout: post
-link: http://ablersite.org/2010/09/25/01matherys-extrasound/
-slug: 01matherys-extrasound
 title: 01Mathery's Extrasound
-wordpress_id: 948
+date: 2010-09-25 19:16:48 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/09/25/01matherys-extrasound/
+wordpress_id: 948
 ---
 
 I know we've all seen plenty of blogs devoted to one thing a day [one recipe, one photograph, one new idea]. But [01Mathery](http://01mathery.tumblr.com/) keep inspiring me with their sheer energy and playfulness—they're a team of two young designers, hacking and designing one new object every day.

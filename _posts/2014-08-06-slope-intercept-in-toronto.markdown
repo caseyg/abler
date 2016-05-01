@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-06 14:02:35+00:00
-layout: post
-link: http://ablersite.org/2014/08/06/slope-intercept-in-toronto/
-slug: slope-intercept-in-toronto
 title: 'slope : intercept in toronto'
-wordpress_id: 5645
+date: 2014-08-06 14:02:35 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/06/slope-intercept-in-toronto/
+wordpress_id: 5645
 ---
 
 [![Slope : Intercept montage, showing my suite of five ramps, portable and stackable, for use with wheelchairs or by skateboarders.](http://ablersite.files.wordpress.com/2012/09/montage.jpg)](http://ablersite.files.wordpress.com/2012/09/montage.jpg)

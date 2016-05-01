@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-04 17:59:58+00:00
-layout: post
-link: http://ablersite.org/2013/11/04/jae-rhim-lee-furniture/
-slug: jae-rhim-lee-furniture
 title: 'jae rhim lee: furniture'
-wordpress_id: 5109
+date: 2013-11-04 17:59:58 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/04/jae-rhim-lee-furniture/
+wordpress_id: 5109
 ---
 
 ## [Jae Rhim Lee](http://zonezerozerostudio.com/) is most well known for her [Infinity Burial Project](http://infinityburialproject.com/)—a brilliant mix of mycology, environmental sustainability, and economic critique of the US funeral industry. It's one of my favorite projects, and one I point young designers to all the time: an example of design work where the spokes of meaning are deeply layered and multiple.

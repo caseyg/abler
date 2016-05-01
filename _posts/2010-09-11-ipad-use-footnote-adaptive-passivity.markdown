@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-09-11 19:34:46+00:00
-layout: post
-link: http://ablersite.org/2010/09/11/ipad-use-footnote-adaptive-passivity/
-slug: ipad-use-footnote-adaptive-passivity
 title: 'iPad use footnote: adaptive passivity?'
-wordpress_id: 890
+date: 2010-09-11 19:34:46 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/09/11/ipad-use-footnote-adaptive-passivity/
+wordpress_id: 890
 ---
 
 [![354295_com_mobius_strip](http://ablersite.files.wordpress.com/2010/09/354295_com_mobius_strip.jpg)](http://ablersite.files.wordpress.com/2010/09/354295_com_mobius_strip.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-09-14 00:31:55+00:00
-layout: post
-link: http://ablersite.org/2010/09/13/but-he-does-like-robo-cop/
-slug: but-he-does-like-robo-cop
 title: But he does like Robo-Cop
-wordpress_id: 918
+date: 2010-09-14 00:31:55 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/09/13/but-he-does-like-robo-cop/
+wordpress_id: 918
 ---
 
 From Jonah Campbell's guest post about why the Terminator isn't a cyborg, at [Quiet Babylon](http://quietbabylon.com/2010/some-major-terminator-fan-is-totally-going-to-nail-my-ass-to-the-wall-for-this/):

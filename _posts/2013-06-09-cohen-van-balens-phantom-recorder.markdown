@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-06-09 03:39:43+00:00
-layout: post
-link: http://ablersite.org/2013/06/09/cohen-van-balens-phantom-recorder/
-slug: cohen-van-balens-phantom-recorder
 title: cohen van balen's "phantom recorder"
-wordpress_id: 4674
+date: 2013-06-09 03:39:43 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/06/09/cohen-van-balens-phantom-recorder/
+wordpress_id: 4674
 ---
 
 [![A man sits in a chair; he has one biological arm, and one arm fitted with a balloon-and-straw prosthetic, attached to CPUs. A computer monitor, close by, provides a read-out of data.](http://ablersite.files.wordpress.com/2013/06/phantom_recorder_landscape.jpg)](http://ablersite.files.wordpress.com/2013/06/phantom_recorder_landscape.jpg)

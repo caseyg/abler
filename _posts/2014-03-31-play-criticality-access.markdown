@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-03-31 15:04:45+00:00
-layout: post
-link: http://ablersite.org/2014/03/31/play-criticality-access/
-slug: play-criticality-access
 title: play, criticality, access
-wordpress_id: 5445
+date: 2014-03-31 15:04:45 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/03/31/play-criticality-access/
+wordpress_id: 5445
 ---
 
 I'll be at the University of Toronto next Monday night, speaking on The Edited City: Criticality, Access, Play. The history of science, skateboarding culture, the politics of amateurship, and the future of universal design. I'd love to see you there! I'm also looking forward to visits with Ryerson's [EDGE Lab](http://edgelab.ryerson.ca/) and OCAD's [Inclusive Design Research Centre](http://idrc.ocad.ca/).

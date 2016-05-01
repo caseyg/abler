@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-02-21 19:57:06+00:00
-layout: post
-link: http://ablersite.org/2013/02/21/prosthetic-imagination-brandeis-lecture-228/
-slug: prosthetic-imagination-brandeis-lecture-228
 title: 'prosthetic imagination: brandeis lecture 2/28'
-wordpress_id: 4307
+date: 2013-02-21 19:57:06 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/02/21/prosthetic-imagination-brandeis-lecture-228/
+wordpress_id: 4307
 post_format:
 - Image
 ---

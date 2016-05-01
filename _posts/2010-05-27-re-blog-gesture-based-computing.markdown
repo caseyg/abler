@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-05-27 20:48:09+00:00
-layout: post
-link: http://ablersite.org/2010/05/27/re-blog-gesture-based-computing/
-slug: re-blog-gesture-based-computing
 title: gesture-based computing
-wordpress_id: 658
+date: 2010-05-27 20:48:09 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/05/27/re-blog-gesture-based-computing/
+wordpress_id: 658
 ---
 
 [![lycra-gloves-computing-mit](http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg)](http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg)

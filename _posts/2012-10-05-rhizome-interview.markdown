@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-10-05 01:15:06+00:00
-layout: post
-link: http://ablersite.org/2012/10/05/rhizome-interview/
-slug: rhizome-interview
 title: rhizome interview
-wordpress_id: 4041
+date: 2012-10-05 01:15:06 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/10/05/rhizome-interview/
+wordpress_id: 4041
 ---
 
 [![](http://ablersite.files.wordpress.com/2012/10/gloves01.jpg)](http://ablersite.files.wordpress.com/2012/10/gloves01.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-07-01 02:23:38+00:00
-layout: post
-link: http://ablersite.org/2012/06/30/amalia-pica/
-slug: amalia-pica
 title: amalia pica
-wordpress_id: 2723
+date: 2012-07-01 02:23:38 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/06/30/amalia-pica/
+wordpress_id: 2723
 ---
 
 Rhizome just alerted me to [Amalia Pica's show](http://rhizome.org/editorial/2012/jun/27/chisenhale-gallery/) at [Chisenhale Gallery](http://www.chisenhale.org.uk/):

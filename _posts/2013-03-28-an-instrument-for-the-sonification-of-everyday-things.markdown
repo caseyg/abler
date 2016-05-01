@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-03-28 20:48:19+00:00
-layout: post
-link: http://ablersite.org/2013/03/28/an-instrument-for-the-sonification-of-everyday-things/
-slug: an-instrument-for-the-sonification-of-everyday-things
 title: an instrument for the sonification of everyday things
-wordpress_id: 4432
+date: 2013-03-28 20:48:19 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/03/28/an-instrument-for-the-sonification-of-everyday-things/
+wordpress_id: 4432
 ---
 
 You might think of this project as a poetics of [sensory substitution](http://en.wikipedia.org/wiki/Sensory_substitution): swapping one capacity for another. There are a number of tools in development now that translate [visual material into audible "colors,](http://www.seeingwithsound.com/)" or [use tactile signals to "see" the environment](http://www.wicab.com/en_us/)—they create an artificial form of synaesthesia that's meant to compensate for lost function in one or another bodily sense.

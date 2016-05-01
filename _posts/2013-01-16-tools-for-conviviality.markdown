@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-01-16 19:05:15+00:00
-layout: post
-link: http://ablersite.org/2013/01/16/tools-for-conviviality/
-slug: tools-for-conviviality
 title: tools for conviviality
-wordpress_id: 4246
+date: 2013-01-16 19:05:15 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/01/16/tools-for-conviviality/
+wordpress_id: 4246
 ---
 
 Last year, Suzanne Fischer [pointed to](http://www.theatlantic.com/technology/archive/2012/04/why-the-landline-telephone-was-the-perfect-tool/255930/) Ivan Illich's _Tools for Conviviality_ as a worthy guiding set of principles for  critical making:_

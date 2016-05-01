@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-11-12 02:42:53+00:00
-layout: post
-link: http://ablersite.org/2010/11/11/an-ethics-of-homelessness-and-a-der-spiegel-publicity-stunt/
-slug: an-ethics-of-homelessness-and-a-der-spiegel-publicity-stunt
 title: an "ethics of homelessness" (and a Der Spiegel publicity stunt)
-wordpress_id: 995
+date: 2010-11-12 02:42:53 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/11/11/an-ethics-of-homelessness-and-a-der-spiegel-publicity-stunt/
+wordpress_id: 995
 ---
 
 If you don't know [Cabinet magazine](http://www.cabinetmagazine.org/), I humbly suggest that you rectify that fact. It's a weird and wonderful mix of art, science, history, and mischief—and, naturally, hard to describe. Editor Sina Najafi does a great job, though, in his essay for the collection _[What Is Research in the Visual Arts?](http://www.amazon.com/s/ref=nb_sb_ss_i_0_65?url=search-alias%3Daps&field-keywords=what+is+research+in+the+visual+arts+obsession.+archive.+encounter&sprefix=what+is+research+in+the+visual+arts+obsession.+archive.+encounter) _

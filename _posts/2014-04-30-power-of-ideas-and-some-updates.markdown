@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-04-30 14:47:50+00:00
-layout: post
-link: http://ablersite.org/2014/04/30/power-of-ideas-and-some-updates/
-slug: power-of-ideas-and-some-updates
 title: power of ideas and some updates
-wordpress_id: 5473
+date: 2014-04-30 14:47:50 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/04/30/power-of-ideas-and-some-updates/
+wordpress_id: 5473
 ---
 
 I'm happy to be included in the May issue of Boston Magazine, themed around the [Power of Ideas](http://www.bostonmagazine.com/news/article/2014/04/29/power-of-ideas/).

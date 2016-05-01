@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-08-06 16:35:23+00:00
-layout: post
-link: http://ablersite.org/2012/08/06/artificial-parts-practical-lives/
-slug: artificial-parts-practical-lives
 title: artificial parts, practical lives
-wordpress_id: 2928
+date: 2012-08-06 16:35:23 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/08/06/artificial-parts-practical-lives/
+wordpress_id: 2928
 ---
 
 [![several pairs of jaipur feet in a row](http://ablersite.files.wordpress.com/2012/08/015_jaipurfoot.jpg)](http://ablersite.files.wordpress.com/2012/08/015_jaipurfoot.jpg)

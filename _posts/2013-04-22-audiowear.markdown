@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-04-22 19:57:33+00:00
-layout: post
-link: http://ablersite.org/2013/04/22/audiowear/
-slug: audiowear
 title: audiowear
-wordpress_id: 4485
+date: 2013-04-22 19:57:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/04/22/audiowear/
+wordpress_id: 4485
 ---
 
 [![A man wears a long white porcelain necklace of eight oversize whistles, linked together by a chain.](http://ablersite.files.wordpress.com/2013/04/audiowear_9whistle_necklace-male.jpg)](http://ablersite.files.wordpress.com/2013/04/audiowear_9whistle_necklace-male.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-02-11 00:59:50+00:00
-layout: post
-link: http://ablersite.org/2015/02/11/minimum-force-corporeal-anticipation/
-slug: minimum-force-corporeal-anticipation
 title: corporeal anticipation
-wordpress_id: 5989
+date: 2015-02-11 00:59:50 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/02/11/minimum-force-corporeal-anticipation/
+wordpress_id: 5989
 ---
 
 ### For a while I was running posts on a separate personal site, but I stopped and closed it down some time ago. Abler will be my only house for now. And I've decided to re-post some of those artifacts and ideas that still nourish me. Hope they might for some of you, too:

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-09-22 17:55:38+00:00
-layout: post
-link: http://ablersite.org/2012/09/22/alison-odaniels-night-sky/
-slug: alison-odaniels-night-sky
 title: '"sound is a character"'
-wordpress_id: 3921
+date: 2012-09-22 17:55:38 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/09/22/alison-odaniels-night-sky/
+wordpress_id: 3921
 ---
 
 [Alison O'Daniel's](http://www.alisonodaniel.com/) film, _Night Sky_, is touring in North American cities for the next couple of weeks—and in it, O'Daniel says, "sound is a character." There's an extraordinary amount of play with music, associative and abstracted noises, and descriptive captioning in the work, all while weaving in and out of canonical story structures. See dates and times for screenings below, as well as the trailer.

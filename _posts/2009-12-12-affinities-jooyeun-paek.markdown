@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-12-12 19:47:10+00:00
-layout: post
-link: http://ablersite.org/2009/12/12/affinities-jooyeun-paek/
-slug: affinities-jooyeun-paek
 title: JooYoun Paek's polite umbrella
-wordpress_id: 279
+date: 2009-12-12 19:47:10 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/12/12/affinities-jooyeun-paek/
+wordpress_id: 279
 ---
 
 [JooYoun Paek's Polite Umbrella (see video!).](http://jooyounpaek.com/politeumbrella.html)

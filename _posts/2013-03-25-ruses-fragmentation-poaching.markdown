@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-03-25 21:55:43+00:00
-layout: post
-link: http://ablersite.org/2013/03/25/ruses-fragmentation-poaching/
-slug: ruses-fragmentation-poaching
 title: strategies and tactics
-wordpress_id: 4418
+date: 2013-03-25 21:55:43 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/03/25/ruses-fragmentation-poaching/
+wordpress_id: 4418
 ---
 
 I came across a succinct and probing summary of Michel de Certeau's ideas about _strategies_ versus _tactics _in Tim Cresswell's [_On The Move: _](http://www.amazon.com/Move-Mobility-Modern-Western-World/dp/0415952565)_[Mobility in the Modern Western World](http://www.amazon.com/Move-Mobility-Modern-Western-World/dp/0415952565). _ This comparison—and the affirmation of  the tactical—is referenced so often by artists, but usually without sufficient explanation as to why.

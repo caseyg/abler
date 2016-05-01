@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-09-04 01:28:11+00:00
-layout: post
-link: http://ablersite.org/2010/09/03/alex-dodges-sleep-talker/
-slug: alex-dodges-sleep-talker
 title: Alex Dodge's Sleep Talker
-wordpress_id: 859
+date: 2010-09-04 01:28:11 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/09/03/alex-dodges-sleep-talker/
+wordpress_id: 859
 ---
 
 Alex Dodge's new [Generative](http://www.alexdodge.com/index.php) series was recently on display at Brooklyn's [Klaus von Nichtssagend Gallery](http://www.klausgallery.com/exhibitions/2010/alex-dodge/). Featured are works like the Sleep Talker, an experimental prototype for social networking in your sleep—connecting users via "dream feeds."

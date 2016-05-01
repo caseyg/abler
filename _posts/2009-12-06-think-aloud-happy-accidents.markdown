@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-12-06 17:33:57+00:00
-layout: post
-link: http://ablersite.org/2009/12/06/think-aloud-happy-accidents/
-slug: think-aloud-happy-accidents
 title: happy accidents
-wordpress_id: 204
+date: 2009-12-06 17:33:57 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/12/06/think-aloud-happy-accidents/
+wordpress_id: 204
 ---
 
 From Mitchell Whitelaw's [_Metacreation: Art and Artificial Life_](http://www.amazon.com/Metacreation-Artificial-Life-Mitchell-Whitelaw/dp/0262731762/ref=sr_1_1?ie=UTF8&s=books&qid=1260120645&sr=8-1):

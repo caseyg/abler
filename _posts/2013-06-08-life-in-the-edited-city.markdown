@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-06-08 08:34:52+00:00
-layout: post
-link: http://ablersite.org/2013/06/08/life-in-the-edited-city/
-slug: life-in-the-edited-city
 title: 'life in the edited city: update'
-wordpress_id: 1376
+date: 2013-06-08 08:34:52 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/06/08/life-in-the-edited-city/
+wordpress_id: 1376
 ---
 
 Update: This work now has a life of its own: the [Accessible Icon Project](http://www.accessibleicon.org/), and we've been getting some super press coverage lately. See stories on [FastCo](http://www.fastcodesign.com/1672754/how-a-guerrilla-art-project-gave-birth-to-nycs-new-wheelchair-symbol#1), [Print/Imprint](http://www.printmag.com/logo-design/isotype-disability-logo/), among others. More to come!

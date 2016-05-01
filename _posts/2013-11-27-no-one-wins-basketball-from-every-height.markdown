@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-27 15:05:39+00:00
-layout: post
-link: http://ablersite.org/2013/11/27/no-one-wins-basketball-from-every-height/
-slug: no-one-wins-basketball-from-every-height
 title: no one wins? basketball from every height
-wordpress_id: 5143
+date: 2013-11-27 15:05:39 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/27/no-one-wins-basketball-from-every-height/
+wordpress_id: 5143
 ---
 
 [![a large, angular, irregularly shaped backboard sits on two poles to make space for six basketball hoops, staggered at different heights](http://ablersite.files.wordpress.com/2013/11/img_1232-copia.jpg)](http://ablersite.files.wordpress.com/2013/11/img_1232-copia.jpg)

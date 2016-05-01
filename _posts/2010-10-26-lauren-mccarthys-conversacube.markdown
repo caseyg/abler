@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-10-26 20:07:55+00:00
-layout: post
-link: http://ablersite.org/2010/10/26/lauren-mccarthys-conversacube/
-slug: lauren-mccarthys-conversacube
 title: Lauren McCarthy's Conversacube
-wordpress_id: 1137
+date: 2010-10-26 20:07:55 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/10/26/lauren-mccarthys-conversacube/
+wordpress_id: 1137
 ---
 
 [![conversacube2](http://ablersite.files.wordpress.com/2010/10/conversacube2.jpg)](http://ablersite.files.wordpress.com/2010/10/conversacube2.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-06 20:28:59+00:00
-layout: post
-link: http://ablersite.org/2013/11/06/the-white-cane-as-technology/
-slug: the-white-cane-as-technology
 title: the white cane as technology
-wordpress_id: 5126
+date: 2013-11-06 20:28:59 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/06/the-white-cane-as-technology/
+wordpress_id: 5126
 ---
 
 [My conversation with Georgina Kleege](http://www.theatlantic.com/technology/archive/2013/11/the-white-cane-as-technology/281167/) is up at the Atlantic. I loved doing this interview, and our subjects went satisfyingly wide in their range.

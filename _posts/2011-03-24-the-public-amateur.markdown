@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-03-24 15:06:18+00:00
-layout: post
-link: http://ablersite.org/2011/03/24/the-public-amateur/
-slug: the-public-amateur
 title: the public amateur
-wordpress_id: 1746
+date: 2011-03-24 15:06:18 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/03/24/the-public-amateur/
+wordpress_id: 1746
 ---
 
 [![Amateur Radio W1EAK 1933](http://farm5.static.flickr.com/4091/5016484220_246179f3c7.jpg)](http://www.flickr.com/photos/derrypubliclibrary/5016484220/)

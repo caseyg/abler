@@ -1,15 +1,14 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-05-15 19:58:34+00:00
-layout: post
-link: http://ablersite.org/2014/05/15/knitting-bones-with-fact-and-fiction-a-conversation-with-design-culture-labs-anne-galloway/
-slug: knitting-bones-with-fact-and-fiction-a-conversation-with-design-culture-labs-anne-galloway
 title: 'knitting bones with fact and fiction: a conversation with design culture lab''s
   anne galloway'
-wordpress_id: 5484
+date: 2014-05-15 19:58:34 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/05/15/knitting-bones-with-fact-and-fiction-a-conversation-with-design-culture-labs-anne-galloway/
+wordpress_id: 5484
 ---
 
 [![a round, hollow wooden hand-cranked knitting machine creates a wool cast for a human arm at the limb passes through it.](http://ablersite.files.wordpress.com/2014/05/bk-profile-700.png)](http://ablersite.files.wordpress.com/2014/05/bk-profile-700.png)

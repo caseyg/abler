@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-09-17 18:37:17+00:00
-layout: post
-link: http://ablersite.org/2013/09/17/all-technology-is-assistive-technology/
-slug: all-technology-is-assistive-technology
 title: all technology is assistive technology
-wordpress_id: 4858
+date: 2013-09-17 18:37:17 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/09/17/all-technology-is-assistive-technology/
+wordpress_id: 4858
 ---
 
 [![decelerator](http://ablersite.files.wordpress.com/2013/09/decelerator.jpg)](http://ablersite.files.wordpress.com/2013/09/decelerator.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-04-04 22:49:25+00:00
-layout: post
-link: http://ablersite.org/2013/04/04/user-adjustable-upcycled-lower-leg/
-slug: user-adjustable-upcycled-lower-leg
 title: user-adjustable, upcycled lower leg
-wordpress_id: 4458
+date: 2013-04-04 22:49:25 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/04/04/user-adjustable-upcycled-lower-leg/
+wordpress_id: 4458
 ---
 
 Yoony Byun's prosthetic leg concept repurposes sneaker parts, making a user-adjustable, low-cost limb:

@@ -1,15 +1,14 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-04-14 14:38:37+00:00
-layout: post
-link: http://ablersite.org/?p=1871
-published: false
-slug: the-edited-city-2-0
 title: the edited city, 2.0
-wordpress_id: 1871
+date: 2011-04-14 14:38:37 Z
+published: false
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/?p=1871
+wordpress_id: 1871
 ---
 
 Thanks to the [Awesome Foundation](http://awesomefoundation.org/), I have a grant to [tweak the sticker](http://www.ablersite.org/2010/12/life-in-the-edited-city/) and do another print run. My first set went quickly! I'm hoping for reflective ink this time—it wasn't possible with the printer I went with initially, but now I can do some more R&D for maximum visibility.

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-10-17 14:48:29+00:00
-layout: post
-link: http://ablersite.org/2012/10/17/matthias-gommels-delayed/
-slug: matthias-gommels-delayed
 title: matthias gommel's "delayed"
-wordpress_id: 4133
+date: 2012-10-17 14:48:29 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/10/17/matthias-gommels-delayed/
+wordpress_id: 4133
 ---
 
 [![two people stand facing each other, wearing headsets wired to the ceiling, speaking and gesturing to one another  in a museum. ](http://ablersite.files.wordpress.com/2012/10/gommel_delayed6.jpg)](http://ablersite.files.wordpress.com/2012/10/gommel_delayed6.jpg)

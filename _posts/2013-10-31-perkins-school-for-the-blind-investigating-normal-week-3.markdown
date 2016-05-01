@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-10-31 15:25:33+00:00
-layout: post
-link: http://ablersite.org/2013/10/31/perkins-school-for-the-blind-investigating-normal-week-3/
-slug: perkins-school-for-the-blind-investigating-normal-week-3
 title: perkins school for the blind (investigating normal, week 3)
-wordpress_id: 5032
+date: 2013-10-31 15:25:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/10/31/perkins-school-for-the-blind-investigating-normal-week-3/
+wordpress_id: 5032
 ---
 
 [Investigating Normal](http://ablersite.org/investigating-normal/) spent its third week visiting the [Perkins School for the Blind](http://www.perkins.org/) in Watertown, Massachusetts. Perkins is a famous and storied institution, with vast historical archives and a truly global contemporary influence. I wanted students to see both the archival tools and instruments that have been built there for over a century and a half; I also wanted them to glimpse the very latest technological and architectural changes to the school, to witness the response to its changing population.

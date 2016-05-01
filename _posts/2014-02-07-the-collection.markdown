@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-02-07 16:23:57+00:00
-layout: post
-link: http://ablersite.org/2014/02/07/the-collection/
-slug: the-collection
 title: the collection
-wordpress_id: 5330
+date: 2014-02-07 16:23:57 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/02/07/the-collection/
+wordpress_id: 5330
 ---
 
 [![MOMA_screengrab](http://ablersite.files.wordpress.com/2014/02/moma_screengrab.jpg)](http://ablersite.files.wordpress.com/2014/02/moma_screengrab.jpg)

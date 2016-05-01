@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-11-21 15:54:16+00:00
-layout: post
-link: http://ablersite.org/2009/11/21/projects-search-task/
-slug: projects-search-task
 title: sensory substitution
-wordpress_id: 181
+date: 2009-11-21 15:54:16 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/11/21/projects-search-task/
+wordpress_id: 181
 ---
 
 [![](http://ablersite.files.wordpress.com/2009/11/searchtask1.jpg?w=1024)](http://ablersite.files.wordpress.com/2009/11/searchtask1.jpg)

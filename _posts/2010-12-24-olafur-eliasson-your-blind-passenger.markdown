@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-12-24 13:45:31+00:00
-layout: post
-link: http://ablersite.org/2010/12/24/olafur-eliasson-your-blind-passenger/
-slug: olafur-eliasson-your-blind-passenger
 title: 'olafur eliasson: your blind passenger'
-wordpress_id: 1348
+date: 2010-12-24 13:45:31 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/12/24/olafur-eliasson-your-blind-passenger/
+wordpress_id: 1348
 ---
 
 It's hard not to love [Eliasson's work](http://www.olafureliasson.net/). Deceptively simple, immersive environments are where he shines. Currently up at the [Arken Museum](http://www.arken.dk/content/us) is _Your Blind Passenger_, a 90-meter tunnel, densely fogged. So visibility is minimal, and participants must use other instincts to find their way.

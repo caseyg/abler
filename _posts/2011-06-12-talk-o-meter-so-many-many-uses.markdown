@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-06-12 01:00:37+00:00
-layout: post
-link: http://ablersite.org/2011/06/11/talk-o-meter-so-many-many-uses/
-slug: talk-o-meter-so-many-many-uses
 title: 'talk-o-meter: so many, many uses'
-wordpress_id: 2035
+date: 2011-06-12 01:00:37 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/06/11/talk-o-meter-so-many-many-uses/
+wordpress_id: 2035
 ---
 
 The [Talk-O-Meter](http://www.talk-o-meter.de/e/) has made the tech rounds already, but I had to post it here. It's so simple, and so good.

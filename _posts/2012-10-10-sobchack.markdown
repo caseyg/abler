@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-10-10 11:52:56+00:00
-layout: post
-link: http://ablersite.org/2012/10/10/sobchack/
-slug: sobchack
 title: replacement parts
-wordpress_id: 3942
+date: 2012-10-10 11:52:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/10/10/sobchack/
+wordpress_id: 3942
 ---
 
 A friend sent along [this Buzzfeed post](http://www.buzzfeed.com/angelameiquan/21-antique-limbs-for-the-early-amputee-70fn) featuring historical prostheses—and naturally, it belongs here on Abler. It's another one of these photo-round-up posts, presented without comment, that make me curious again about what we're getting when we consume these images.

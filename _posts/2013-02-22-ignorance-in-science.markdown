@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-02-22 10:44:11+00:00
-layout: post
-link: http://ablersite.org/2013/02/22/ignorance-in-science/
-slug: ignorance-in-science
 title: ignorance in science
-wordpress_id: 4311
+date: 2013-02-22 10:44:11 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/02/22/ignorance-in-science/
+wordpress_id: 4311
 ---
 
 [![FeaturedImage](http://ablersite.files.wordpress.com/2013/02/featuredimage.jpeg)](http://ablersite.files.wordpress.com/2013/02/featuredimage.jpeg)

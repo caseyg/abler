@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-01 15:19:14+00:00
-layout: post
-link: http://ablersite.org/2013/11/01/azra-aksamijas-nomadic-mosque/
-slug: azra-aksamijas-nomadic-mosque
 title: azra aksamija's nomadic mosque
-wordpress_id: 5066
+date: 2013-11-01 15:19:14 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/01/azra-aksamijas-nomadic-mosque/
+wordpress_id: 5066
 ---
 
 [![A photograph of the same woman, back to back: at left, in street clothes with a long blazer overcoat, and knee-length skirt over long pants in black. At right, the lower portion of the skirt unzips to become a prayer rug, and a head covering has been extracted from the blazer.](http://ablersite.files.wordpress.com/2013/11/nomadicmosque.jpg)](http://ablersite.files.wordpress.com/2013/11/nomadicmosque.jpg)

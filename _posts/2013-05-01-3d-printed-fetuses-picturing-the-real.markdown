@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-05-01 01:16:38+00:00
-layout: post
-link: http://ablersite.org/2013/05/01/3d-printed-fetuses-picturing-the-real/
-slug: 3d-printed-fetuses-picturing-the-real
 title: '3D printed fetuses: picturing the real?'
-wordpress_id: 4515
+date: 2013-05-01 01:16:38 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/05/01/3d-printed-fetuses-picturing-the-real/
+wordpress_id: 4515
 ---
 
 After io9 posted [this story](http://io9.com/3d-sonograms-let-blind-expectant-parents-see-their-ba-472999403) about 3D printed sonogram technologies, allowing prospective parents who are blind or have low vision to experience their developing fetus, I got to talking with [Aimi Hamraie](http://emory.academia.edu/AimiHamraie/Posts), assistant professor of Medicine, Health, & Society at Vanderbilt University, about all the interesting questions this practice might raise.

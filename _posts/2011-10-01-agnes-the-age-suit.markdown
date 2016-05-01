@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-10-01 19:21:20+00:00
-layout: post
-link: http://ablersite.org/2011/10/01/agnes-the-age-suit/
-slug: agnes-the-age-suit
 title: 'AGNES: the age suit'
-wordpress_id: 2322
+date: 2011-10-01 19:21:20 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/10/01/agnes-the-age-suit/
+wordpress_id: 2322
 ---
 
 [![](http://ablersite.files.wordpress.com/2011/10/agesuitbig__1237815097_6676.jpg)](http://ablersite.files.wordpress.com/2011/10/agesuitbig__1237815097_6676.jpg)

@@ -1,15 +1,14 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-05-17 19:01:15+00:00
-layout: post
-link: http://ablersite.org/2010/05/17/adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics/
-slug: adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics
 title: 'Adaptation, Part I: How the Eames chair came from leg splints, and why "disability
   studies" isn''t just identity politics'
-wordpress_id: 366
+date: 2010-05-17 19:01:15 Z
 categories:
 - new here?
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/05/17/adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics/
+wordpress_id: 366
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg)](http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg)

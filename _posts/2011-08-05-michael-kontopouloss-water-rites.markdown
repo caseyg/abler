@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-08-05 00:27:11+00:00
-layout: post
-link: http://ablersite.org/2011/08/04/michael-kontopouloss-water-rites/
-slug: michael-kontopouloss-water-rites
 title: michael kontopoulos's "water rites"
-wordpress_id: 2069
+date: 2011-08-05 00:27:11 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/08/04/michael-kontopouloss-water-rites/
+wordpress_id: 2069
 ---
 
 [![](http://ablersite.files.wordpress.com/2011/08/kontopolous2.png)](http://ablersite.files.wordpress.com/2011/08/kontopolous2.png)

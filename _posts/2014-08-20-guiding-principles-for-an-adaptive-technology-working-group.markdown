@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-20 21:22:21+00:00
-layout: post
-link: http://ablersite.org/2014/08/20/guiding-principles-for-an-adaptive-technology-working-group/
-slug: guiding-principles-for-an-adaptive-technology-working-group
 title: guiding principles for an adaptive technology working group
-wordpress_id: 5622
+date: 2014-08-20 21:22:21 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/20/guiding-principles-for-an-adaptive-technology-working-group/
+wordpress_id: 5622
 ---
 
 [![a two-story lab and design studio space held in a barge -- the practice of illutron collective in Denmark](http://ablersite.files.wordpress.com/2014/08/illutron2.jpg)](https://ablersite.files.wordpress.com/2014/08/illutron2.jpg)

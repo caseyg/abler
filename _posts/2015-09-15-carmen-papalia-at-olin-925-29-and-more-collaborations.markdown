@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-09-15 01:44:58+00:00
-layout: post
-link: http://ablersite.org/2015/09/15/carmen-papalia-at-olin-925-29-and-more-collaborations/
-slug: carmen-papalia-at-olin-925-29-and-more-collaborations
 title: carmen papalia at olin, 9/25-29, and more collaborations
-wordpress_id: 6137
+date: 2015-09-15 01:44:58 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/09/15/carmen-papalia-at-olin-925-29-and-more-collaborations/
+wordpress_id: 6137
 ---
 
 This fall's version of [Investigating Normal](http://ablersite.org/investigating-normal/) will include several dream collaborators: Lacy Gillotti of [NEADS](http://neads.org/), a service dog training organization, Alex Geller of [Fathom Info](http://fathom.info/), with whom we'll be exploring disability and the school-to-prison pipeline, [Mel Chua](http://melchua.com/), a postdoc at Olin who is deaf, has spent her life "passing" as hearing, and will be getting a cochlear implant this fall, and [Carmen Papalia,](http://blog.art21.org/2014/10/07/you-can-do-it-with-your-eyes-closed/) an artist who's blind and has a complicated relationship to the white cane.

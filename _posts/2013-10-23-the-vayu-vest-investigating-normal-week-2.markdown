@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-10-23 20:16:30+00:00
-layout: post
-link: http://ablersite.org/2013/10/23/the-vayu-vest-investigating-normal-week-2/
-slug: the-vayu-vest-investigating-normal-week-2
 title: the vayu vest (investigating normal, week 2)
-wordpress_id: 4944
+date: 2013-10-23 20:16:30 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/10/23/the-vayu-vest-investigating-normal-week-2/
+wordpress_id: 4944
 ---
 
 In Week 2 of [Investigating Normal](http://ablersite.org/investigating-normal/), Brian Mullen, creator of the [Vayu Vest](http://vayuvest.com/), came to speak to students about his wearable deep pressure prosthetic.

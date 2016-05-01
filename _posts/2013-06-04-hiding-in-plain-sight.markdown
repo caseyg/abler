@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-06-04 16:43:33+00:00
-layout: post
-link: http://ablersite.org/2013/06/04/hiding-in-plain-sight/
-slug: hiding-in-plain-sight
 title: hiding in plain sight
-wordpress_id: 4570
+date: 2013-06-04 16:43:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/06/04/hiding-in-plain-sight/
+wordpress_id: 4570
 ---
 
 [![Three figures, seated outside, huddled together in separate black lycra body socks, enveloping their entire bodies.](http://ablersite.files.wordpress.com/2013/06/three_socks_huddled.jpg)](http://ablersite.files.wordpress.com/2013/06/three_socks_huddled.jpg) Soon after I [posted](http://ablersite.org/2013/05/21/normalabnormal-in-prague/) an image of my project [_Unknown Armature: Body Socks_](http://sarahendren.net/2012/01/03/unknown-armature-body-socks/)—that's another one, above—[Duane McLemore](http://www.duanemclemore.com/) pointed me to these "[entoptic phenomena](http://http://www.flickr.com/photos/williamhundley/sets/72157594235409275/)," William Hundley's photoset on Flickr: [![A floating rust-colored sheet of fabric seems to float, unaided, about 4 feet off the ground. The fabric is billowed and folded as though occupied inside, yet there's no evidence of a mass or volume that would occupy it.](http://farm1.staticflickr.com/88/214212878_1e8d6274ed_o.jpg)](http://www.flickr.com/photos/williamhundley/214212878/) [![A silk-satin, hot pink mass of fabric seems similarly occupied by a body, but floats in front of a shop window, unmoored.](http://farm1.staticflickr.com/90/231399930_5dc34dc031_o.jpg)](http://www.flickr.com/photos/williamhundley/231399930/) [![A plain cotton sheet floats above the ground, seems to be inhabited by two human bodies.](http://farm1.staticflickr.com/187/363560296_99525165c9_o.jpg)](http://www.flickr.com/photos/williamhundley/363560296/) [![A pink and blue printed sheet of fabric hangs suspended in the air, mountainous in its shape. In the background, a security sign on the wall reads: SMILE, your activities are being recorded...](http://farm1.staticflickr.com/64/214205624_e4d7596c93_o.jpg)](http://www.flickr.com/photos/williamhundley/214205624/)

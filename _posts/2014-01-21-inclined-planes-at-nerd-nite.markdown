@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-01-21 15:50:55+00:00
-layout: post
-link: http://ablersite.org/2014/01/21/inclined-planes-at-nerd-nite/
-slug: inclined-planes-at-nerd-nite
 title: inclined planes at nerd nite
-wordpress_id: 5298
+date: 2014-01-21 15:50:55 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/01/21/inclined-planes-at-nerd-nite/
+wordpress_id: 5298
 ---
 
 [![A lengthy wooden-plank ramp in the South Carolina woods, on which pedestrians can see cypress swamps and multiple species of other trees.](http://ablersite.files.wordpress.com/2014/01/edistoramp.jpg)](http://ablersite.files.wordpress.com/2014/01/edistoramp.jpg)

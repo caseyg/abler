@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-05 18:37:16+00:00
-layout: post
-link: http://ablersite.org/2014/08/05/manipulate-the-social-web-all-by-yourself/
-slug: manipulate-the-social-web-all-by-yourself
 title: manipulate the social web all by yourself
-wordpress_id: 5624
+date: 2014-08-05 18:37:16 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/05/manipulate-the-social-web-all-by-yourself/
+wordpress_id: 5624
 ---
 
 [![a screenshot of the Mood Manipulator at the app store: saying it lets you "choose how you want to feel and to filter your Facebook feed accordingly."](http://ablersite.files.wordpress.com/2014/08/mccarthy_mood-jpg.jpg)](https://ablersite.files.wordpress.com/2014/08/mccarthy_mood-jpg.jpg)

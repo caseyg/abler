@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-12-12 01:29:13+00:00
-layout: post
-link: http://ablersite.org/2010/12/11/letter-on-the-blind-for-the-use-of-those-who-see/
-slug: letter-on-the-blind-for-the-use-of-those-who-see
 title: '"Letter on the Blind, for the Use of Those Who See."'
-wordpress_id: 1323
+date: 2010-12-12 01:29:13 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/12/11/letter-on-the-blind-for-the-use-of-those-who-see/
+wordpress_id: 1323
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/12/artist_tellez.jpg)](http://ablersite.files.wordpress.com/2010/12/artist_tellez.jpg)

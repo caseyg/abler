@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-04-17 16:06:46+00:00
-layout: post
-link: http://ablersite.org/2010/04/17/adaptation-part-iii-art-as-research-braille-tattoos-socially-adept-handbags/
-slug: adaptation-part-iii-art-as-research-braille-tattoos-socially-adept-handbags
 title: 'Adaptation, Part III: Art as Research (Braille tattoos! Socially-adept handbags!)'
-wordpress_id: 510
+date: 2010-04-17 16:06:46 Z
 categories:
 - new here?
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/04/17/adaptation-part-iii-art-as-research-braille-tattoos-socially-adept-handbags/
+wordpress_id: 510
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/04/centralcommandstudy.jpg)](http://ablersite.files.wordpress.com/2010/04/centralcommandstudy.jpg)

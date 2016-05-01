@@ -1,18 +1,17 @@
 ---
+title: speculative machinery (ongoing series)
+date: 2010-01-02 16:11:53 Z
+published: false
+categories:
+- Uncategorized
 author: sarahendren
 comments: true
-date: 2010-01-02 16:11:53+00:00
 excerpt: I'm looking for collaborators to propose new toolsâ€”speculative machinesâ€”that
   invert or transform or exaggerate an adaptive aid that already exists. Here's a
   first design:...
 layout: post
 link: http://ablersite.org/?p=100
-published: false
-slug: ongoing-speculative-machinery
-title: speculative machinery (ongoing series)
 wordpress_id: 100
-categories:
-- Uncategorized
 ---
 
 ![](http://www.ablersite.com/wp-content/uploads/parabol-1.jpg)

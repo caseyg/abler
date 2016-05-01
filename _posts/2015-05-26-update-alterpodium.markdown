@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-05-26 21:12:14+00:00
-layout: post
-link: http://ablersite.org/2015/05/26/update-alterpodium/
-slug: update-alterpodium
 title: 'update: alterpodium'
-wordpress_id: 6070
+date: 2015-05-26 21:12:14 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/05/26/update-alterpodium/
+wordpress_id: 6070
 ---
 
 There's a full report coming about students' work on [the alterpodium](http://ablersite.org/2014/08/28/an-alterpodium-design-for-one-series/), along with images of the final prototype (in carbon fiber!), but I'm just sharing with you this gif so you get a sense for the interaction, assembly and disassembly.

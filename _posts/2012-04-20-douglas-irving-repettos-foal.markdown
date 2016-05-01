@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-04-20 19:57:06+00:00
-layout: post
-link: http://ablersite.org/2012/04/20/douglas-irving-repettos-foal/
-slug: douglas-irving-repettos-foal
 title: douglas irving repetto's 'foal'
-wordpress_id: 2673
+date: 2012-04-20 19:57:06 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/04/20/douglas-irving-repettos-foal/
+wordpress_id: 2673
 ---
 
 [![](http://ablersite.files.wordpress.com/2012/04/foal_still.jpg)](http://ablersite.files.wordpress.com/2012/04/foal_still.jpg)

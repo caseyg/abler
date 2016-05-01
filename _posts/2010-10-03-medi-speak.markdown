@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-10-03 17:36:36+00:00
-layout: post
-link: http://ablersite.org/2010/10/03/medi-speak/
-slug: medi-speak
 title: Medi-Speak
-wordpress_id: 967
+date: 2010-10-03 17:36:36 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/10/03/medi-speak/
+wordpress_id: 967
 ---
 
 I've been thinking about a set of alternative hospital linens, and I've started with these pillowcases:

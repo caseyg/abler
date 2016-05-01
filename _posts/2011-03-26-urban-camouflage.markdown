@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-03-26 12:26:04+00:00
-layout: post
-link: http://ablersite.org/2011/03/26/urban-camouflage/
-slug: urban-camouflage
 title: urban camouflage
-wordpress_id: 1772
+date: 2011-03-26 12:26:04 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/03/26/urban-camouflage/
+wordpress_id: 1772
 ---
 
 [![](http://ablersite.files.wordpress.com/2011/03/urbancamo1.jpg)](http://ablersite.files.wordpress.com/2011/03/urbancamo1.jpg)

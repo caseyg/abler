@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-08-27 16:33:32+00:00
-layout: post
-link: http://ablersite.org/2010/08/27/bertolt-brecht-adaptive-apps-and-why-the-ipad-isnt-just-for-consuming-content/
-slug: bertolt-brecht-adaptive-apps-and-why-the-ipad-isnt-just-for-consuming-content
 title: Bertolt Brecht, adaptive apps, and why the iPad isn't just for consuming content
-wordpress_id: 722
+date: 2010-08-27 16:33:32 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/08/27/bertolt-brecht-adaptive-apps-and-why-the-ipad-isnt-just-for-consuming-content/
+wordpress_id: 722
 ---
 
 Media theorists love Bertolt Brecht's famous 1932 essay, ["The Radio as an Apparatus of Communication."](http://home.freeuk.net/lemmaesthetics/brecht1.htm) It's a prescient call for participatory technology:

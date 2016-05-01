@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-03-05 22:56:38+00:00
-layout: post
-link: http://ablersite.org/2012/03/05/recognizing-openness/
-slug: recognizing-openness
 title: recognizing openness
-wordpress_id: 2614
+date: 2012-03-05 22:56:38 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/03/05/recognizing-openness/
+wordpress_id: 2614
 ---
 
 [![](http://ablersite.files.wordpress.com/2012/03/map-sci_collabo2.jpg?w=1024)](http://ablersite.files.wordpress.com/2012/03/map-sci_collabo2.jpg)

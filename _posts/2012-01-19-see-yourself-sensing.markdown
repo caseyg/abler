@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-01-19 20:32:24+00:00
-layout: post
-link: http://ablersite.org/2012/01/19/see-yourself-sensing/
-slug: see-yourself-sensing
 title: see yourself sensing
-wordpress_id: 2568
+date: 2012-01-19 20:32:24 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/01/19/see-yourself-sensing/
+wordpress_id: 2568
 ---
 
 Black Dog sent me Madeline Schwartzman's new [See Yourself Sensing: Redefining Human Perception](http://blackdogonline.com/all-books/see-yourself-sensing.html):

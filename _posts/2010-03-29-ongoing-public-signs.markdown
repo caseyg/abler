@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-03-29 11:58:56+00:00
-layout: post
-link: http://ablersite.org/2010/03/29/ongoing-public-signs/
-slug: ongoing-public-signs
 title: signage/wheelchair (ongoing series)
-wordpress_id: 46
+date: 2010-03-29 11:58:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/03/29/ongoing-public-signs/
+wordpress_id: 46
 ---
 
 [![staticwheelchair](http://ablersite.files.wordpress.com/2010/03/staticwheelchair.jpg)](http://ablersite.files.wordpress.com/2010/03/staticwheelchair.jpg)

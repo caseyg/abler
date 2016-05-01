@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-25 15:37:03+00:00
-layout: post
-link: http://ablersite.org/2013/11/25/introducing-abler-at-gizmodo/
-slug: introducing-abler-at-gizmodo
 title: introducing abler at gizmodo
-wordpress_id: 5187
+date: 2013-11-25 15:37:03 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/25/introducing-abler-at-gizmodo/
+wordpress_id: 5187
 ---
 
 I'm happy to report that Abler will now be syndicated as a channel at Gizmodo: [abler.gizmodo.com](http://abler.gizmodo.com/). Below is the first post I wrote to introduce myself to the readership there. If you're following along here, you'll still see all the content. It'll appear here _and_ there. I'm thrilled to be working under Geoff Manaugh, of BLDGBLOG, and most recently at Columbia University's Studio X. Geoff is expanding the scope of Gizmodo to include more design, architecture, and urbanism, so I'm glad to join up there at this stage.

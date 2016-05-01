@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-09-13 23:21:57+00:00
-layout: post
-link: http://ablersite.org/2012/09/13/carla-jaspers-mainframe/
-slug: carla-jaspers-mainframe
 title: 'carla jaspers: "mainframe"'
-wordpress_id: 2910
+date: 2012-09-13 23:21:57 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/09/13/carla-jaspers-mainframe/
+wordpress_id: 2910
 ---
 
 [Carla Jaspers](http://www.carlajaspers.com/) is a New York-based designer trained both in occupational therapy and industrial design, and possibly the first person to properly rant about the ridiculousness of walkers-with-tennis-balls:

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-09-13 21:37:34+00:00
-layout: post
-link: http://ablersite.org/2011/09/13/mark-shepards-ccd-me-not/
-slug: mark-shepards-ccd-me-not
 title: mark shepard's CCD-me-not
-wordpress_id: 2169
+date: 2011-09-13 21:37:34 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/09/13/mark-shepards-ccd-me-not/
+wordpress_id: 2169
 ---
 
 This isn't the [first adaptive umbrella](http://www.ablersite.org/2009/12/affinities-jooyeun-paek/) I've written about, but it's certainly as timely, and there's now a prototype in development. Mark Shepard is creating a [Sentient City Survival Kit](http://survival.sentientcity.net/blog/), "set of artifacts for survival in the near-future sentient city":

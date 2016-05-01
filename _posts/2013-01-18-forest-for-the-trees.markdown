@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-01-18 01:21:56+00:00
-layout: post
-link: http://ablersite.org/2013/01/18/forest-for-the-trees/
-slug: forest-for-the-trees
 title: forest for the trees
-wordpress_id: 4252
+date: 2013-01-18 01:21:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/01/18/forest-for-the-trees/
+wordpress_id: 4252
 ---
 
 [![face_attachable_forest_close](http://ablersite.files.wordpress.com/2013/01/face_attachable_forest_close.jpeg)](http://ablersite.files.wordpress.com/2013/01/face_attachable_forest_close.jpeg)

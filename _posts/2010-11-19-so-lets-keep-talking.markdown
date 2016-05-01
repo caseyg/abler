@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-11-19 14:55:54+00:00
-layout: post
-link: http://ablersite.org/2010/11/19/so-lets-keep-talking/
-slug: so-lets-keep-talking
-title: (so let's keep talking)
-wordpress_id: 1246
+title: "(so let's keep talking)"
+date: 2010-11-19 14:55:54 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/11/19/so-lets-keep-talking/
+wordpress_id: 1246
 ---
 
 [![Polymath](http://ablersite.files.wordpress.com/2010/11/polymath.jpg)](http://ablersite.org/2010/11/19/so-lets-keep-talking/polymath/#main)

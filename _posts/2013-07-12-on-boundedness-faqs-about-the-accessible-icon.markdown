@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-07-12 14:16:34+00:00
-layout: post
-link: http://ablersite.org/2013/07/12/on-boundedness-faqs-about-the-accessible-icon/
-slug: on-boundedness-faqs-about-the-accessible-icon
 title: 'on boundedness: faqs about the accessible icon'
-wordpress_id: 4720
+date: 2013-07-12 14:16:34 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/07/12/on-boundedness-faqs-about-the-accessible-icon/
+wordpress_id: 4720
 ---
 
 I'm interviewed in [this NPR story](http://www.npr.org/2013/07/07/189523504/new-handicapped-sign-rolls-into-new-york-city) on the [Accessible Icon Project](http://www.accessibleicon.org/). It aired on All Things Considered on Sunday, and the response we've gotten has been, once again, overwhelmingly positive. We love that our resources are open-access, and we've been glad to connect with so many likeminded people all over the world.

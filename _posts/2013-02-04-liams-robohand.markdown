@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-02-04 19:28:29+00:00
-layout: post
-link: http://ablersite.org/2013/02/04/liams-robohand/
-slug: liams-robohand
 title: liam's robohand
-wordpress_id: 4275
+date: 2013-02-04 19:28:29 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/02/04/liams-robohand/
+wordpress_id: 4275
 ---
 
 [![A child's prosthetic hand, made from lightweight plastic parts, with finger digits and a fully integrated structure for movement](http://ablersite.files.wordpress.com/2013/02/liams_robohand1.jpeg)](http://ablersite.files.wordpress.com/2013/02/liams_robohand1.jpeg)

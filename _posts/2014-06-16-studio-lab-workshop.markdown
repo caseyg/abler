@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-06-16 14:53:17+00:00
-layout: post
-link: http://ablersite.org/2014/06/16/studio-lab-workshop/
-slug: studio-lab-workshop
 title: 'studio : lab : workshop'
-wordpress_id: 5556
+date: 2014-06-16 14:53:17 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/06/16/studio-lab-workshop/
+wordpress_id: 5556
 ---
 
 ### I'm happy to be joining [Olin College](http://www.olin.edu/) next year, as a professor of design. Olin is an engineering school, all undergraduate, only 12 years old, with an enrollment of 350 students total. There are no departments! It's a refreshingly unorthodox place. I can't wait.

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-12-05 15:30:26+00:00
-layout: post
-link: http://ablersite.org/2013/12/05/more-than-better-technologies/
-slug: more-than-better-technologies
 title: more than "better technologies"
-wordpress_id: 5217
+date: 2013-12-05 15:30:26 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/12/05/more-than-better-technologies/
+wordpress_id: 5217
 ---
 
 [![A black and white drawing of eyeglasses, sketched like a designer would: all shapes and sizes](http://ablersite.files.wordpress.com/2013/12/a0a81f577.jpg)](http://ablersite.files.wordpress.com/2013/12/a0a81f577.jpg)

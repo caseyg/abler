@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-04-01 16:00:10+00:00
-layout: post
-link: http://ablersite.org/2014/04/01/supporting-publics/
-slug: supporting-publics
 title: supporting publics
-wordpress_id: 5453
+date: 2014-04-01 16:00:10 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/04/01/supporting-publics/
+wordpress_id: 5453
 ---
 
 I've been reading Shannon Jackson's _[Social Works: Performing Art, Supporting Publics](http://www.amazon.com/Social-Works-Performing-Supporting-Publics/dp/0415486017/ref=sr_1_1?ie=UTF8&qid=1396365313&sr=8-1&keywords=jackson+social+works), _a much needed discussion of social arts practice, new genre public arts, or whatever you want to call such hybrid forms of expressive work. One of Jackson's big claims is for works that do something other than _disrupt_ institutions, commonly accepted practices, the status quo—when notions of support, senses of care, are also critical to public life.

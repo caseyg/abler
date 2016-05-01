@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-10-12 20:25:12+00:00
-layout: post
-link: http://ablersite.org/2009/10/12/wendy-jacob-lecture-on-mits-techtv/
-slug: wendy-jacob-lecture-on-mits-techtv
 title: Wendy Jacob lectures on MIT's TechTV
-wordpress_id: 69
+date: 2009-10-12 20:25:12 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/10/12/wendy-jacob-lecture-on-mits-techtv/
+wordpress_id: 69
 ---
 
 Artist and MIT professor [Wendy Jacob](http://visualarts.mit.edu/workandresearch/workfaculty/work_jacob.html) speaks [in this video](https://techtv.mit.edu/videos/3016-wendy-jacob-autism-studio) about her recent work within her newly-established Autism Studio in the visual arts program there. Worth watching—she shows some recent work of her own, some of her students' projects, and then a new collaboration with a young boy diagnosed with autism, working to create a novel way to navigate through large open spaces.

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-03-19 15:00:57+00:00
-layout: post
-link: http://ablersite.org/2013/03/19/jennifer-crupis-unguarded-gestures/
-slug: jennifer-crupis-unguarded-gestures
 title: jennifer crupi's "unguarded gestures"
-wordpress_id: 4369
+date: 2013-03-19 15:00:57 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/03/19/jennifer-crupis-unguarded-gestures/
+wordpress_id: 4369
 ---
 
 [Jennifer Crupi](http://jennifercrupi.com/index.html) is externalizing body language cues—some iconic, some more insidious—with wearable armature. Largely made with sleek aluminum parts, these tools recall a medical grammar of the early 20th century: braces, stirrups, or dentistry tools. So the emotionality of their gestures comes as a gorgeous surprise:

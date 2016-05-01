@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-12-29 15:39:55+00:00
-layout: post
-link: http://ablersite.org/2013/12/29/pretty-ramp-machine/
-slug: pretty-ramp-machine
 title: pretty ramp machine
-wordpress_id: 5250
+date: 2013-12-29 15:39:55 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/12/29/pretty-ramp-machine/
+wordpress_id: 5250
 ---
 
 [![ramp_skater_wall_2_WEB](http://ablersite.files.wordpress.com/2013/12/ramp_skater_wall_2_web.jpg)](http://ablersite.files.wordpress.com/2013/12/ramp_skater_wall_2_web.jpg)

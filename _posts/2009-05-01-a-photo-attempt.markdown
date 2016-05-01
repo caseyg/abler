@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-05-01 14:44:56+00:00
-layout: post
-link: http://ablersite.org/2009/05/01/a-photo-attempt/
-slug: a-photo-attempt
 title: signage/billboards (ongoing series)
-wordpress_id: 9
+date: 2009-05-01 14:44:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/05/01/a-photo-attempt/
+wordpress_id: 9
 ---
 
 Representing disability is a challenge; representing cognitive or developmental disability may be more so. Here's an image from a series of bulletin boards, created in late 2007 by the [NYU Child Study Center](http://www.aboutourkids.org/). Designed as ransom notes, they were created as a public awareness campaign about various childhood neurological conditions, including the autism spectrum.

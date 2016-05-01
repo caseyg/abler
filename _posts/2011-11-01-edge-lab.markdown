@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-11-01 16:45:46+00:00
-layout: post
-link: http://ablersite.org/2011/11/01/edge-lab/
-slug: edge-lab
 title: EDGE lab
-wordpress_id: 2347
+date: 2011-11-01 16:45:46 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/11/01/edge-lab/
+wordpress_id: 2347
 ---
 
 The Experimental Design and Gaming Environments lab, or [EDGE](http://edgelab.ryerson.ca/) lab, at Ryerson University, works—among other things—on adaptive tech for children with disabilities. Like the [High-Low Tech](http://hlt.media.mit.edu/) media lab group where I'm taking a course now, EDGE researchers are committed to democratizing materials for maximum customization and replicability. Following the example of the [Adaptive Design Association](http://adaptivedesign.org/) in New York (I'll be posting about them soon!), they're making good use of cardboard and soft circuitry for all kinds of low-cost tools. [Torontoist](http://torontoist.com/2011/10/edge-lab-democratizes-accessible-design/) has a profile post:

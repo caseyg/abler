@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-12-09 18:46:24+00:00
-layout: post
-link: http://ablersite.org/2013/12/09/a-video-game-with-nothing-to-see/
-slug: a-video-game-with-nothing-to-see
 title: a video game with nothing to see
-wordpress_id: 5227
+date: 2013-12-09 18:46:24 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/12/09/a-video-game-with-nothing-to-see/
+wordpress_id: 5227
 ---
 
 [![A man wears headphones and hold an iPad, listening to the aural game.](http://ablersite.files.wordpress.com/2013/12/ku-xlarge-1.jpg)](http://ablersite.files.wordpress.com/2013/12/ku-xlarge-1.jpg)

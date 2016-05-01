@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-07-21 13:39:42+00:00
-layout: post
-link: http://ablersite.org/2011/07/21/monu-nerd-nite-boston/
-slug: monu-nerd-nite-boston
 title: monu / nerd nite boston
-wordpress_id: 2059
+date: 2011-07-21 13:39:42 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/07/21/monu-nerd-nite-boston/
+wordpress_id: 2059
 ---
 
 [![](http://ablersite.files.wordpress.com/2011/07/monu-14_9_large.jpg)](http://ablersite.files.wordpress.com/2011/07/monu-14_9_large.jpg)

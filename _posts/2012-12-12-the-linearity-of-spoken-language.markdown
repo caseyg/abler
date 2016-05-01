@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-12-12 20:30:06+00:00
-layout: post
-link: http://ablersite.org/2012/12/12/the-linearity-of-spoken-language/
-slug: the-linearity-of-spoken-language
 title: the linearity of spoken language
-wordpress_id: 4202
+date: 2012-12-12 20:30:06 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/12/12/the-linearity-of-spoken-language/
+wordpress_id: 4202
 ---
 
 The New York Times explores a new development in sign language: new signs for common scientific terms.

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-25 19:57:07+00:00
-layout: post
-link: http://ablersite.org/2014/08/25/disability-visibility/
-slug: disability-visibility
 title: disability / visibility
-wordpress_id: 5728
+date: 2014-08-25 19:57:07 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/25/disability-visibility/
+wordpress_id: 5728
 ---
 
 [![A group of students with disabilities visiting the Museum's Cast Collection galleries, Wing B, Gallery 40. Photographed November 23, 1922 © The Metropolitan Museum of Art](http://ablersite.files.wordpress.com/2014/08/2.jpg)](https://ablersite.files.wordpress.com/2014/08/2.jpg)

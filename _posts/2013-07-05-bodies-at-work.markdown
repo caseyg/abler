@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-07-05 18:00:12+00:00
-layout: post
-link: http://ablersite.org/2013/07/05/bodies-at-work/
-slug: bodies-at-work
 title: bodies at work
-wordpress_id: 4692
+date: 2013-07-05 18:00:12 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/07/05/bodies-at-work/
+wordpress_id: 4692
 ---
 
 [![A man in a 3 piece suit and white stage facial makeup peruses a theater set with two walking sticks.](http://ablersite.files.wordpress.com/2013/07/30jptheater1-articlelarge.jpg)](http://ablersite.files.wordpress.com/2013/07/30jptheater1-articlelarge.jpg)

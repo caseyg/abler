@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-09-23 01:20:06+00:00
-layout: post
-link: http://ablersite.org/2010/09/22/steve-hoefers-hand-lights/
-slug: steve-hoefers-hand-lights
 title: Steve Hoefer's Hand Lights
-wordpress_id: 939
+date: 2010-09-23 01:20:06 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/09/22/steve-hoefers-hand-lights/
+wordpress_id: 939
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/09/hand-lights.jpg)](http://ablersite.files.wordpress.com/2010/09/hand-lights.jpg)

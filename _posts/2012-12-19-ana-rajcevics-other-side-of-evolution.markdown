@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-12-19 14:22:12+00:00
-layout: post
-link: http://ablersite.org/2012/12/19/ana-rajcevics-other-side-of-evolution/
-slug: ana-rajcevics-other-side-of-evolution
 title: ana rajcevic's "other side of evolution"
-wordpress_id: 4220
+date: 2012-12-19 14:22:12 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/12/19/ana-rajcevics-other-side-of-evolution/
+wordpress_id: 4220
 ---
 
 Ana Rajcevic's collection, [ANIMAL: The Other Side of Evolution](http://www.anarajcevic.com/animal/studio/), proposes a set of wearables that explore "animal anatomy, building upon existing skeleton structures to create a series of sculptural pieces that appear as natural properties of the human body."

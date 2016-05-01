@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-08-23 18:42:34+00:00
-layout: post
-link: http://ablersite.org/2011/08/23/all-my-geek-dreams-coming-true/
-slug: all-my-geek-dreams-coming-true
 title: all my geek dreams coming true
-wordpress_id: 2100
+date: 2011-08-23 18:42:34 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/08/23/all-my-geek-dreams-coming-true/
+wordpress_id: 2100
 ---
 
 I really enjoyed meeting and talking with Christina Agapakis, who wrote about the Moveable Chair work for Scientific American's [Oscillator](http://blogs.scientificamerican.com/oscillator/2011/08/23/editing-the-city/) blog.

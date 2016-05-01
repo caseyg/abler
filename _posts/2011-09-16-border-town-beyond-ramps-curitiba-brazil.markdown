@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-09-16 02:24:47+00:00
-layout: post
-link: http://ablersite.org/2011/09/15/border-town-beyond-ramps-curitiba-brazil/
-slug: border-town-beyond-ramps-curitiba-brazil
 title: 'border town: beyond ramps [curitiba, brazil]'
-wordpress_id: 2122
+date: 2011-09-16 02:24:47 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/09/15/border-town-beyond-ramps-curitiba-brazil/
+wordpress_id: 2122
 ---
 
 How does a bold, military-appointed, possibly technocratic architect-turned-mayor create a model universal-access transportation system, cheaply and effectively, and use it—along with other initiatives—to turn around the environmental prospects of the entire town?

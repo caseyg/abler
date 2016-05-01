@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-10-23 21:11:46+00:00
-layout: post
-link: http://ablersite.org/2013/10/23/di-mainstones-human-harp/
-slug: di-mainstones-human-harp
 title: di mainstone's "human harp"
-wordpress_id: 4965
+date: 2013-10-23 21:11:46 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/10/23/di-mainstones-human-harp/
+wordpress_id: 4965
 ---
 
 [Di Mainstone](http://www.dimainstone.com/) made a [human harp](http://www.humanharp.org/): prosthetic for playing the strands of a suspension bridge, structurally so like the strings on the instrument. The wearer dons the piece and attaches retractable strings to parts of the bridge, recording its sounds and playing them back in a dance between the structure and the body.

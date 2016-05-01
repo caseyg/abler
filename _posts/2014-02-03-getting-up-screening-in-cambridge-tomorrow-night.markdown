@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-02-03 18:53:22+00:00
-layout: post
-link: http://ablersite.org/2014/02/03/getting-up-screening-in-cambridge-tomorrow-night/
-slug: getting-up-screening-in-cambridge-tomorrow-night
 title: getting up
-wordpress_id: 5324
+date: 2014-02-03 18:53:22 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/02/03/getting-up-screening-in-cambridge-tomorrow-night/
+wordpress_id: 5324
 ---
 
 [![A graffitied wall reaing "Tempt"in pinks, reds, and blues— the name of the graffiti artist who is the subject of the film.](http://ablersite.files.wordpress.com/2014/02/gettingup-lores.jpg)](http://ablersite.files.wordpress.com/2014/02/gettingup-lores.jpg)

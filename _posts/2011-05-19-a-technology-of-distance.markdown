@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-05-19 16:23:12+00:00
-layout: post
-link: http://ablersite.org/2011/05/19/a-technology-of-distance/
-slug: a-technology-of-distance
 title: a "technology of distance"
-wordpress_id: 1895
+date: 2011-05-19 16:23:12 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/05/19/a-technology-of-distance/
+wordpress_id: 1895
 ---
 
 I'm revisiting Ted Porter's [Trust in Numbers: The Pursuit of Objectivity in Science and Public Life](http://www.amazon.com/Trust-Numbers-Theodore-M-Porter/dp/0691029083/ref=sr_1_1?ie=UTF8&qid=1304814496&sr=8-1), probably 10 years after I first read it as his student in the history of science at UCLA. Emphasis throughout is mine:

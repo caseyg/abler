@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-09-30 18:19:07+00:00
-layout: post
-link: http://ablersite.org/2014/09/30/anna-schuleits-bloom/
-slug: anna-schuleits-bloom
 title: anna schuleit's "bloom"
-wordpress_id: 5788
+date: 2014-09-30 18:19:07 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/09/30/anna-schuleits-bloom/
+wordpress_id: 5788
 ---
 
 ### Anna Schuleit's [Bloom](http://www.1856.org/bloom/) is one of my long-held favorite installation works, and it's a perfect Abler project. So why haven't I featured it before now?

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-10-29 16:10:17+00:00
-layout: post
-link: http://ablersite.org/2013/10/29/gianni-rendas-beer-glass-drinking-for-the-no-longer-young/
-slug: gianni-rendas-beer-glass-drinking-for-the-no-longer-young
 title: 'gianni renda''s beer glass: drinking for the no longer young'
-wordpress_id: 4996
+date: 2013-10-29 16:10:17 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/10/29/gianni-rendas-beer-glass-drinking-for-the-no-longer-young/
+wordpress_id: 4996
 ---
 
 [![3 tall, amber-colored, double wall beer glasses, with a vertical star shape providing multiple ridges along the sides, a wider mouth and narrower base.](http://ablersite.files.wordpress.com/2013/10/heineken_lr1.jpg)](http://ablersite.files.wordpress.com/2013/10/heineken_lr1.jpg)

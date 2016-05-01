@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-11-07 18:44:27+00:00
-layout: post
-link: http://ablersite.org/2012/11/07/lung-on-a-chip/
-slug: lung-on-a-chip
 title: lung-on-a-chip
-wordpress_id: 4173
+date: 2012-11-07 18:44:27 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/11/07/lung-on-a-chip/
+wordpress_id: 4173
 ---
 
 On Thursday I'm heading over to the [Wyss Institute for Biologically Inspired Engineering](http://wyss.harvard.edu/) for a visit. The Wyss is a recent and unique model for a laboratory environment: where researchers, medical practitioners, and entrepreneurs come together to make "translational" technologies suitable for manufacturing. Not a lab for basic research, and not a business entity, the Institute functions in between those spaces.

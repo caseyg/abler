@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-02-26 00:14:27+00:00
-layout: post
-link: http://ablersite.org/2013/02/26/mickael-boulay-transitional-cutlery/
-slug: mickael-boulay-transitional-cutlery
 title: 'mickael boulay: transitional cutlery'
-wordpress_id: 4338
+date: 2013-02-26 00:14:27 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/02/26/mickael-boulay-transitional-cutlery/
+wordpress_id: 4338
 ---
 
 A while back I wrote about a set of china from the [Design for Dementia project](http://www.hhc.rca.ac.uk/2988-3029/all/1/Design-and-Dementia.aspx#), made to maximize independent eating for older users whose hand coordination is declining.

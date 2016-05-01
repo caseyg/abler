@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-02-28 00:20:20+00:00
-layout: post
-link: http://ablersite.org/2010/02/27/re-blog-sleep-suit-for-urban-power-nappers/
-slug: re-blog-sleep-suit-for-urban-power-nappers
 title: sleep suit for urban power nappers
-wordpress_id: 428
+date: 2010-02-28 00:20:20 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/02/27/re-blog-sleep-suit-for-urban-power-nappers/
+wordpress_id: 428
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/02/sleep-suit-clothing-bag.jpg)](http://ablersite.files.wordpress.com/2010/02/sleep-suit-clothing-bag.jpg)

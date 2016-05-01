@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-03-07 01:42:55+00:00
-layout: post
-link: http://ablersite.org/2011/03/06/whats-wrong-with-prosthetics-porn-part-ii/
-slug: whats-wrong-with-prosthetics-porn-part-ii
 title: what's wrong with "prosthetics porn"? (part II)
-wordpress_id: 1483
+date: 2011-03-07 01:42:55 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/03/06/whats-wrong-with-prosthetics-porn-part-ii/
+wordpress_id: 1483
 ---
 
 Part I of this essay is [here](http://ablersite.org/2011/02/20/whats-wrong-with-prosthetics-porn-part-i/).

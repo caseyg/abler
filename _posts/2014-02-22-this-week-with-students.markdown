@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-02-22 02:21:25+00:00
-layout: post
-link: http://ablersite.org/2014/02/22/this-week-with-students/
-slug: this-week-with-students
 title: craft and code and point-of-view
-wordpress_id: 5343
+date: 2014-02-22 02:21:25 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/02/22/this-week-with-students/
+wordpress_id: 5343
 ---
 
 I'm teaching Next Generation Wearables at RISD this spring; it's being formed as we go, so it's harder to share here than [Investigating Normal](http://ablersite.org/investigating-normal/). I'll report as I can.

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-10-13 15:32:17+00:00
-layout: post
-link: http://ablersite.org/2011/10/13/material-interfaces-part-ii/
-slug: material-interfaces-part-ii
 title: material interfaces, part ii
-wordpress_id: 2361
+date: 2011-10-13 15:32:17 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/10/13/material-interfaces-part-ii/
+wordpress_id: 2361
 ---
 
 First, just quickly: I'm quoted in [Monday's Boston Globe article](http://www.bostonglobe.com/metro/2011/10/10/tiny-grants-keep-awesome-ideas-coming/qRvgQSZXuomCEr22F1ePYM/story.xml) about the Awesome Foundation. I've sung their praises [here before](http://www.ablersite.org/2011/04/the-edited-city-2-0/), of course.

@@ -1,15 +1,14 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-05-01 16:26:08+00:00
-layout: post
-link: http://ablersite.org/2010/05/01/adaptation-part-ii-hearing-aid-jewelry-chairs-that-give-hugs-and-the-art-of-changing-the-question/
-slug: adaptation-part-ii-hearing-aid-jewelry-chairs-that-give-hugs-and-the-art-of-changing-the-question
 title: 'Adaptation, Part II: hearing aid jewelry, chairs that give hugs, and the art
   of changing the question.'
-wordpress_id: 436
+date: 2010-05-01 16:26:08 Z
 categories:
 - new here?
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/05/01/adaptation-part-ii-hearing-aid-jewelry-chairs-that-give-hugs-and-the-art-of-changing-the-question/
+wordpress_id: 436
 ---
 
 In [Part I](https://ablersite.wordpress.com/2010/05/17/adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics/) of this series, I wrote about the still-new territory that is true adaptive design. As shown in the case of the Eames chairs, we've only begun to explore the aesthetic-and-engineering innovations that may shift our cultural ideas about ability and disability, independence and dependence, normalcy and variation.

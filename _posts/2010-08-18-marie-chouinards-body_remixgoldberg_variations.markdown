@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-08-18 17:29:40+00:00
-layout: post
-link: http://ablersite.org/2010/08/18/marie-chouinards-body_remixgoldberg_variations/
-slug: marie-chouinards-body_remixgoldberg_variations
 title: Marie Chouinard's bODY_rEMIX/  gOLDBERG_vARIATIONS
-wordpress_id: 718
+date: 2010-08-18 17:29:40 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/08/18/marie-chouinards-body_remixgoldberg_variations/
+wordpress_id: 718
 ---
 
 [![body-remix-006](http://ablersite.files.wordpress.com/2010/08/body-remix-006.jpg)](http://ablersite.files.wordpress.com/2010/08/body-remix-006.jpg)

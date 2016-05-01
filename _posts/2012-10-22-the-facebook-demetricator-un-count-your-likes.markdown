@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-10-22 17:11:01+00:00
-layout: post
-link: http://ablersite.org/2012/10/22/the-facebook-demetricator-un-count-your-likes/
-slug: the-facebook-demetricator-un-count-your-likes
 title: 'the facebook demetricator: un-count your likes.'
-wordpress_id: 4139
+date: 2012-10-22 17:11:01 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/10/22/the-facebook-demetricator-un-count-your-likes/
+wordpress_id: 4139
 ---
 
 I'm thinking again of Zadie Smith's searing and much-discussed [critique of Facebook](http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false) from 2010, where she links the Hollywood biopic of Facebook and its creator, Mark Zuckerberg, to the larger limits of the platform:

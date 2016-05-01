@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-02-20 13:27:30+00:00
-layout: post
-link: http://ablersite.org/2011/02/20/whats-wrong-with-prosthetics-porn-part-i/
-slug: whats-wrong-with-prosthetics-porn-part-i
 title: what's wrong with "prosthetics porn"? (part I)
-wordpress_id: 1310
+date: 2011-02-20 13:27:30 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/02/20/whats-wrong-with-prosthetics-porn-part-i/
+wordpress_id: 1310
 ---
 
 When I started Abler, I was excited about all the new prosthetic appendages beginning to make their way through design sites. And I remain so—excited about, intrigued by them. I've been collecting these images, sent on by friends and colleagues, and I've been glad to see much more attention to both practical and creative re-visioning of artificial limbs.

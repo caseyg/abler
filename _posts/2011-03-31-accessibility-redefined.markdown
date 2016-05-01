@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-03-31 15:54:38+00:00
-layout: post
-link: http://ablersite.org/2011/03/31/accessibility-redefined/
-slug: accessibility-redefined
 title: accessibility redefined
-wordpress_id: 1529
+date: 2011-03-31 15:54:38 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/03/31/accessibility-redefined/
+wordpress_id: 1529
 ---
 
 [In this article in GOOD magazine](http://www.good.is/post/85/#comment_list), Alexandra Lange argues for the ways cities would benefit from taking parents' interests seriously:

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-09-20 17:48:53+00:00
-layout: post
-link: http://ablersite.org/2011/09/20/high-low-tech/
-slug: high-low-tech
 title: high-low tech
-wordpress_id: 2199
+date: 2011-09-20 17:48:53 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/09/20/high-low-tech/
+wordpress_id: 2199
 ---
 
 In the spirit of the [public amateur](http://www.ablersite.org/2011/03/the-public-amateur/), I'm going to document my way through a class I'm taking at the MIT media lab: [Crafting Material Interfaces](http://material.media.mit.edu/). It's taught by Leah Buechley, with instruction and time in [her lab](http://hlt.media.mit.edu/) to investigate materials and methods. The High-Low Tech group brings together digital and analog, futurist and traditional technologies, means, and cultures:

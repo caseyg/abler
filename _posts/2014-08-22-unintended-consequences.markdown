@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-22 16:45:54+00:00
-layout: post
-link: http://ablersite.org/2014/08/22/unintended-consequences/
-slug: unintended-consequences
 title: unintended consequences
-wordpress_id: 5753
+date: 2014-08-22 16:45:54 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/22/unintended-consequences/
+wordpress_id: 5753
 ---
 
 ###  [![a man wears a flight suit made of white wings of about a 6 foot span, part of Jeremijenko's collaborative project with Usman Haque, to create personal flight paths as future transportation.](http://ablersite.files.wordpress.com/2014/08/flightpath_aaron_lynett.jpg)](https://ablersite.files.wordpress.com/2014/08/flightpath_aaron_lynett.jpg)

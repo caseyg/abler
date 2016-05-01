@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-10-16 18:41:57+00:00
-layout: post
-link: http://ablersite.org/2009/10/16/re-blog-uselessuseful/
-slug: re-blog-uselessuseful
 title: useless/useful
-wordpress_id: 86
+date: 2009-10-16 18:41:57 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/10/16/re-blog-uselessuseful/
+wordpress_id: 86
 ---
 
 From [Flong Blog](http://www.flong.com/blog/archives/334), Golan Levin on how new media artists, working outside the mandates of utility and traditional research, are often uncredited sources for novel, sophisticated technologies. Issues of copyright aside, it shouldn't be news that artists work in ways that circumvent linear problem-solving, and may, in the process, create technologies that are very useful indeed. I'd speculate that this kind of idea-hatching extends beyond the new media fields as well.

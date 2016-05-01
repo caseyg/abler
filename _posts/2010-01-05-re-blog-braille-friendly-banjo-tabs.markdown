@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-01-05 19:19:44+00:00
-layout: post
-link: http://ablersite.org/2010/01/05/re-blog-braille-friendly-banjo-tabs/
-slug: re-blog-braille-friendly-banjo-tabs
 title: braille-friendly banjo tabs
-wordpress_id: 330
+date: 2010-01-05 19:19:44 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/01/05/re-blog-braille-friendly-banjo-tabs/
+wordpress_id: 330
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/01/turtle-dove.gif)](http://ablersite.files.wordpress.com/2010/01/turtle-dove.gif)

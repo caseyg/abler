@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-11-18 14:49:53+00:00
-layout: post
-link: http://ablersite.org/2009/11/18/affinities-lynn-bennett-carpenter/
-slug: affinities-lynn-bennett-carpenter
 title: Lynn Bennett Carpenter's haptic sensations
-wordpress_id: 108
+date: 2009-11-18 14:49:53 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/11/18/affinities-lynn-bennett-carpenter/
+wordpress_id: 108
 ---
 
 [Lynn Bennett-Carpenter](http://marcelynbennettcarpenter.com/home.html) is a fiber artist based in Detroit. Her work is often interactive, often site-specific, and a number of pieces are wearable, neither proper clothing nor purely functional tools. I asked her specifically about pieces from her "Fittings" series, and from her "Elastic Experiment" works.

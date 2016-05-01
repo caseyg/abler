@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-06-25 20:16:01+00:00
-layout: post
-link: http://ablersite.org/2015/06/25/a-new-icon-site/
-slug: a-new-icon-site
 title: a new icon site
-wordpress_id: 6089
+date: 2015-06-25 20:16:01 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/06/25/a-new-icon-site/
+wordpress_id: 6089
 ---
 
 Coming soon: a new home and new direction for the Accessible Icon Project. Next week! Thanks to a bunch of you for the exhortations we've needed to write more clearly about the work.  

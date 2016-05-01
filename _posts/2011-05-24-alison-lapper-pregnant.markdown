@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-05-24 13:03:02+00:00
-layout: post
-link: http://ablersite.org/2011/05/24/alison-lapper-pregnant/
-slug: alison-lapper-pregnant
 title: alison lapper pregnant
-wordpress_id: 1862
+date: 2011-05-24 13:03:02 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/05/24/alison-lapper-pregnant/
+wordpress_id: 1862
 ---
 
 As part of the [Fourth Plinth series](http://www.london.gov.uk/trafalgarsquare/around/4th_plinth.jsp) of rotating public sculpture in Trafalgar Square, London, [Marc Quinn](http://www.marcquinn.com/) mounted this large-scale work in 2005:

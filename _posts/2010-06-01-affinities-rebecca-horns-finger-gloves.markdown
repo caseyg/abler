@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-06-01 23:46:26+00:00
-layout: post
-link: http://ablersite.org/2010/06/01/affinities-rebecca-horns-finger-gloves/
-slug: affinities-rebecca-horns-finger-gloves
 title: rebecca horn's 'finger gloves'
-wordpress_id: 669
+date: 2010-06-01 23:46:26 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/06/01/affinities-rebecca-horns-finger-gloves/
+wordpress_id: 669
 ---
 
 [![rebecca_horn](http://ablersite.files.wordpress.com/2010/06/rebecca_horn.jpeg)](http://ablersite.files.wordpress.com/2010/06/rebecca_horn.jpeg)

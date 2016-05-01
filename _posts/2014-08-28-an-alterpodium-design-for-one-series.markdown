@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-28 14:30:53+00:00
-layout: post
-link: http://ablersite.org/2014/08/28/an-alterpodium-design-for-one-series/
-slug: an-alterpodium-design-for-one-series
 title: an alterpodium (design for one series)
-wordpress_id: 5712
+date: 2014-08-28 14:30:53 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/28/an-alterpodium-design-for-one-series/
+wordpress_id: 5712
 ---
 
 ### [![alterpodium cardboard solo](http://ablersite.files.wordpress.com/2014/08/alterpodium-cardboard-solo.jpg)](https://ablersite.files.wordpress.com/2014/08/alterpodium-cardboard-solo.jpg)

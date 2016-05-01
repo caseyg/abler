@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-05-18 17:38:46+00:00
-layout: post
-link: http://ablersite.org/2010/05/18/re-blog-crutch-pocket/
-slug: re-blog-crutch-pocket
 title: the crutch pocket
-wordpress_id: 648
+date: 2010-05-18 17:38:46 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/05/18/re-blog-crutch-pocket/
+wordpress_id: 648
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/05/crutch-pocket-sm.jpg)](http://ablersite.files.wordpress.com/2010/05/crutch-pocket-sm.jpg)

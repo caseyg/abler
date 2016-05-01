@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-04-03 17:58:56+00:00
-layout: post
-link: http://ablersite.org/2013/04/03/nyu-lecture/
-slug: nyu-lecture
 title: nyu lectures
-wordpress_id: 4451
+date: 2013-04-03 17:58:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/04/03/nyu-lecture/
+wordpress_id: 4451
 ---
 
 [![program_0412_web](http://ablersite.files.wordpress.com/2013/04/program_0412_web.jpg)](http://ablersite.files.wordpress.com/2013/04/program_0412_web.jpg)

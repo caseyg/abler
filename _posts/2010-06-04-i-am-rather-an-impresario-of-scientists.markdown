@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-06-04 16:02:50+00:00
-layout: post
-link: http://ablersite.org/2010/06/04/i-am-rather-an-impresario-of-scientists/
-slug: i-am-rather-an-impresario-of-scientists
 title: "\"I am, rather, an impresario of scientists.\"\x9D"
-wordpress_id: 676
+date: 2010-06-04 16:02:50 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/06/04/i-am-rather-an-impresario-of-scientists/
+wordpress_id: 676
 ---
 
 [![Impresario_showdetails](http://ablersite.files.wordpress.com/2010/06/impresario_showdetails.jpg)](http://ablersite.files.wordpress.com/2010/06/impresario_showdetails.jpg)

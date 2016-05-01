@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-06-02 14:52:41+00:00
-layout: post
-link: http://ablersite.org/2011/06/02/tangible-sound-labs-skintimacy/
-slug: tangible-sound-labs-skintimacy
 title: "tangible sound lab's \"skintimacy\"\x9D"
-wordpress_id: 1993
+date: 2011-06-02 14:52:41 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/06/02/tangible-sound-labs-skintimacy/
+wordpress_id: 1993
 ---
 
 [![Skintimacy1](http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg)](http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-04-07 17:56:34+00:00
-layout: post
-link: http://ablersite.org/2011/04/07/a-little-to-the-left/
-slug: a-little-to-the-left
 title: a little to the left...
-wordpress_id: 1838
+date: 2011-04-07 17:56:34 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/04/07/a-little-to-the-left/
+wordpress_id: 1838
 ---
 
 [![](http://ablersite.files.wordpress.com/2011/04/itch.jpg)](http://ablersite.files.wordpress.com/2011/04/itch.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-04-18 15:19:01+00:00
-layout: post
-link: http://ablersite.org/2012/04/18/what-is-universal-design/
-slug: what-is-universal-design
 title: what is universal design?
-wordpress_id: 2642
+date: 2012-04-18 15:19:01 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/04/18/what-is-universal-design/
+wordpress_id: 2642
 ---
 
 I've been emailing a bunch with [Aimi Hamraie](https://blogs.emory.edu/aimihamraie//), soon to finish her Ph.D. at Emory University. Aimi's researching [universal design](http://en.wikipedia.org/wiki/Universal_design) and disability politics in the built environment, among other things. We have a lot to talk about, and I'm hoping to post a long exchange between us here. It was Aimi's research that pointed me to one particularly striking example of new construction with elegant, considered, universal design: The [Blusson Spinal Cord Centre](http://icord.org/) in Vancouver, home to a large interdisciplinary research group called the International Collaboration on Repair Discoveries (ICORD).

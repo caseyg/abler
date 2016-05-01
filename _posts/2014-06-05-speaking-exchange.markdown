@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-06-05 20:05:13+00:00
-layout: post
-link: http://ablersite.org/2014/06/05/speaking-exchange/
-slug: speaking-exchange
 title: speaking exchange
-wordpress_id: 5533
+date: 2014-06-05 20:05:13 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/06/05/speaking-exchange/
+wordpress_id: 5533
 ---
 
 [![screenshot of a teenager using a skype-like application with his elder English-speaking partner in a thumbnail screen in the corner](http://ablersite.files.wordpress.com/2014/06/cna-speaking-exchange.jpg)](https://ablersite.files.wordpress.com/2014/06/cna-speaking-exchange.jpg)

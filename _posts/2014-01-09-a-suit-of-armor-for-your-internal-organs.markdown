@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-01-09 17:14:48+00:00
-layout: post
-link: http://ablersite.org/2014/01/09/a-suit-of-armor-for-your-internal-organs/
-slug: a-suit-of-armor-for-your-internal-organs
 title: a suit of armor for your internal organs
-wordpress_id: 5269
+date: 2014-01-09 17:14:48 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/01/09/a-suit-of-armor-for-your-internal-organs/
+wordpress_id: 5269
 ---
 
 German CGI design firm [Viaframe](http://www.viaframe.de/en/portfolio1/armor1.html) imagined these [sets of armature](http://www.viaframe.de/en/portfolio1/armor1.html) for a body's fleshy inner parts. A solid casement for your heart, lungs, or brain.

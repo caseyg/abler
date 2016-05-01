@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-05-19 00:31:08+00:00
-layout: post
-link: http://ablersite.org/2014/05/19/empathy-and-education/
-slug: empathy-and-education
 title: empathy and education
-wordpress_id: 5502
+date: 2014-05-19 00:31:08 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/05/19/empathy-and-education/
+wordpress_id: 5502
 ---
 
 [![A back and white photo of a woman patient and a male doctor, likely from the first half of the 20th century,. The woman sits with a sheet wrapped around her torso, and the dotor listens to her back with a stethoscope.](http://ablersite.files.wordpress.com/2014/05/3786098177_8836fc1d53_b.jpg)](http://ablersite.files.wordpress.com/2014/05/3786098177_8836fc1d53_b.jpg)

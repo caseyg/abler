@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-06-28 23:33:45+00:00
-layout: post
-link: http://ablersite.org/2010/06/28/re-blog-wiicane/
-slug: re-blog-wiicane
 title: the Wiicane
-wordpress_id: 690
+date: 2010-06-28 23:33:45 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/06/28/re-blog-wiicane/
+wordpress_id: 690
 ---
 
 [![wiicane-actual](http://ablersite.files.wordpress.com/2010/06/wiicane-actual.gif)](http://ablersite.files.wordpress.com/2010/06/wiicane-actual.gif)

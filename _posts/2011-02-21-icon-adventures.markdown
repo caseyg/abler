@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-02-21 13:12:15+00:00
-layout: post
-link: http://ablersite.org/2011/02/21/icon-adventures/
-slug: icon-adventures
 title: icon adventures
-wordpress_id: 1610
+date: 2011-02-21 13:12:15 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/02/21/icon-adventures/
+wordpress_id: 1610
 ---
 
 Monday Feb 21: The project's just been written up in the [Boston Globe](http://www.boston.com/news/education/higher/articles/2011/02/21/cambridge_artist_sara_hendren_promotes_wheelchair_symbol_update/)! How to get stickers: Use the contact form to the right to send me your address; I'll send you 5 for free while they last.

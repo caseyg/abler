@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-10-15 13:38:56+00:00
-layout: post
-link: http://ablersite.org/2010/10/15/the-adjacent-possible/
-slug: the-adjacent-possible
 title: the adjacent possible
-wordpress_id: 1102
+date: 2010-10-15 13:38:56 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/10/15/the-adjacent-possible/
+wordpress_id: 1102
 ---
 
 [![volcanic-ash-2](http://ablersite.files.wordpress.com/2010/10/volcanic-ash-2.jpg)](http://ablersite.files.wordpress.com/2010/10/volcanic-ash-2.jpg)

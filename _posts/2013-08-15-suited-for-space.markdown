@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-08-15 13:25:47+00:00
-layout: post
-link: http://ablersite.org/2013/08/15/suited-for-space/
-slug: suited-for-space
 title: suited for space
-wordpress_id: 4761
+date: 2013-08-15 13:25:47 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/08/15/suited-for-space/
+wordpress_id: 4761
 ---
 
 [![an x-rayed, transparent shot of a spacesuit boot, showing straps and buckles and the contoured curves where feet rest](http://ablersite.files.wordpress.com/2013/08/1673218-inline-4857-640.jpg)](http://ablersite.files.wordpress.com/2013/08/1673218-inline-4857-640.jpg)

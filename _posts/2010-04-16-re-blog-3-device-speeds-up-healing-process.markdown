@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-04-16 18:20:25+00:00
-layout: post
-link: http://ablersite.org/2010/04/16/re-blog-3-device-speeds-up-healing-process/
-slug: re-blog-3-device-speeds-up-healing-process
-title: $3 device speeds up healing process
-wordpress_id: 522
+title: "$3 device speeds up healing process"
+date: 2010-04-16 18:20:25 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/04/16/re-blog-3-device-speeds-up-healing-process/
+wordpress_id: 522
 ---
 
 [![negativepressuresuction](http://ablersite.files.wordpress.com/2010/04/negativepressuresuction.jpg)](http://ablersite.files.wordpress.com/2010/04/negativepressuresuction.jpg)

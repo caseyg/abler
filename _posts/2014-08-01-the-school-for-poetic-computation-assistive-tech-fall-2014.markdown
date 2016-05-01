@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-08-01 19:49:32+00:00
-layout: post
-link: http://ablersite.org/2014/08/01/the-school-for-poetic-computation-assistive-tech-fall-2014/
-slug: the-school-for-poetic-computation-assistive-tech-fall-2014
 title: 'the school for poetic computation: assistive tech, fall 2014'
-wordpress_id: 5639
+date: 2014-08-01 19:49:32 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/08/01/the-school-for-poetic-computation-assistive-tech-fall-2014/
+wordpress_id: 5639
 ---
 
 [![A schematic, back-of-the-napkin style drawing with a cyclical feed between the terms "poetic - assistive - critical - philosophical", and setting up the poles of poetic (philosophical) as opposed to the practical, assistive ("real life" issues)](http://ablersite.files.wordpress.com/2014/08/sfpc_call.jpg)](https://ablersite.files.wordpress.com/2014/08/sfpc_call.jpg)

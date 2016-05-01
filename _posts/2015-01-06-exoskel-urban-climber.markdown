@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-01-06 18:19:30+00:00
-layout: post
-link: http://ablersite.org/2015/01/06/exoskel-urban-climber/
-slug: exoskel-urban-climber
 title: exoskel urban climber
-wordpress_id: 5927
+date: 2015-01-06 18:19:30 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/01/06/exoskel-urban-climber/
+wordpress_id: 5927
 ---
 
 [![an image of the strap-on shin guards, with one strap behind the knee, and one to go under the foot. ](https://ablersite.files.wordpress.com/2015/01/guards-for-red-detail-image-rev-10.png)](https://ablersite.files.wordpress.com/2015/01/guards-for-red-detail-image-rev-10.png)

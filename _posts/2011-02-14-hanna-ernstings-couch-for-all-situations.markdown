@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-02-14 02:42:37+00:00
-layout: post
-link: http://ablersite.org/2011/02/13/hanna-ernstings-couch-for-all-situations/
-slug: hanna-ernstings-couch-for-all-situations
 title: Hanna Ernsting's couch for all situations
-wordpress_id: 1547
+date: 2011-02-14 02:42:37 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/02/13/hanna-ernstings-couch-for-all-situations/
+wordpress_id: 1547
 ---
 
 This ["Moody Couch"](http://www.hannaernsting.com/moodycouch.html) from Hanna Ernsting comes with 10 feet of extra fabric, so you can alter it to address your emotional state.

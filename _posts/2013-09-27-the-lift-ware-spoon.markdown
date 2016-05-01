@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-09-27 14:36:43+00:00
-layout: post
-link: http://ablersite.org/2013/09/27/the-lift-ware-spoon/
-slug: the-lift-ware-spoon
 title: the lift ware spoon
-wordpress_id: 4914
+date: 2013-09-27 14:36:43 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/09/27/the-lift-ware-spoon/
+wordpress_id: 4914
 ---
 
 A technology editor at _The Atlantic_ asked me to comment for [their story on the Lift Ware spoon](http://www.theatlantic.com/technology/archive/2013/09/a-spoon-for-people-with-parkinsons/279984/), a piece of sensing cutlery that eliminates up to 70% of a user's hand tremor effect, making a smoother and easier passage from plate to mouth. The tool is bifurcated in the middle, so the back end can receive, sense, and respond to tremor, while the front end is stabilized.

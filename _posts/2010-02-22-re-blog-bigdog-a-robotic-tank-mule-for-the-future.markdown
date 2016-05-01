@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-02-22 15:22:57+00:00
-layout: post
-link: http://ablersite.org/2010/02/22/re-blog-bigdog-a-robotic-tank-mule-for-the-future/
-slug: re-blog-bigdog-a-robotic-tank-mule-for-the-future
 title: 'BigDog: a robotic tank mule for the future'
-wordpress_id: 413
+date: 2010-02-22 15:22:57 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/02/22/re-blog-bigdog-a-robotic-tank-mule-for-the-future/
+wordpress_id: 413
 ---
 
 [![LAND_Robot_BigDog_and_Controller_lg](http://ablersite.files.wordpress.com/2010/02/land_robot_bigdog_and_controller_lg.jpg)](http://ablersite.files.wordpress.com/2010/02/land_robot_bigdog_and_controller_lg.jpg)

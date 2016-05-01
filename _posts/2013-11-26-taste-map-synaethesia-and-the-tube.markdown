@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-11-26 18:04:48+00:00
-layout: post
-link: http://ablersite.org/2013/11/26/taste-map-synaethesia-and-the-tube/
-slug: taste-map-synaethesia-and-the-tube
 title: 'taste map: synaesthesia and the tube'
-wordpress_id: 4773
+date: 2013-11-26 18:04:48 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/11/26/taste-map-synaethesia-and-the-tube/
+wordpress_id: 4773
 ---
 
 [![Detail of five stops, including "roast lamb, warm semolina, fruit cake & dripping, and carrot](http://ablersite.files.wordpress.com/2013/11/tastemap4_2650444c.jpg)](http://ablersite.files.wordpress.com/2013/11/tastemap4_2650444c.jpg)

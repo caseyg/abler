@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-02-12 16:33:26+00:00
-layout: post
-link: http://ablersite.org/2010/02/12/reblog-usb-drive-in-your-finger/
-slug: reblog-usb-drive-in-your-finger
 title: USB drive in your finger
-wordpress_id: 372
+date: 2010-02-12 16:33:26 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/02/12/reblog-usb-drive-in-your-finger/
+wordpress_id: 372
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg)](http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg)

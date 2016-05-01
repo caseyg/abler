@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-10-19 16:05:23+00:00
-layout: post
-link: http://ablersite.org/2010/10/19/nicholas-stedmans-after-deep-blue/
-slug: nicholas-stedmans-after-deep-blue
 title: Nicholas Stedman's 'After Deep Blue'
-wordpress_id: 1112
+date: 2010-10-19 16:05:23 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/10/19/nicholas-stedmans-after-deep-blue/
+wordpress_id: 1112
 ---
 
 [![a human arm with a large, chunky "bracelet" of rock-like parts, bundled together](http://ablersite.files.wordpress.com/2010/10/adbwitharmsmall2.jpg)](http://ablersite.files.wordpress.com/2010/10/adbwitharmsmall2.jpg)

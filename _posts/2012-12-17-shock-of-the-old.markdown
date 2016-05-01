@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-12-17 22:16:19+00:00
-layout: post
-link: http://ablersite.org/2012/12/17/shock-of-the-old/
-slug: shock-of-the-old
 title: shock of the old
-wordpress_id: 4214
+date: 2012-12-17 22:16:19 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/12/17/shock-of-the-old/
+wordpress_id: 4214
 ---
 
 <blockquote>"David Edgerton’s [_The Shock of the Old: Technology and Global History Since 1900_](http://www.amazon.com/Shock-Old-Technology-Global-History/dp/0195322835) is the best kind of corrective for the innovation-crazed futurology that dominates talk about technology and design at the moment. Edgerton rightly shows how the language of futurology—the idea that invention outpaces our capacity to understand it, that scientists “have the future in their bones”—has been with us a for a very long time. But Edgerton’s book is more than that. It’s a reframing of technological study in general...

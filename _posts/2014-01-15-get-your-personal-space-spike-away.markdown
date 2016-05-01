@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-01-15 04:07:33+00:00
-layout: post
-link: http://ablersite.org/2014/01/15/get-your-personal-space-spike-away/
-slug: get-your-personal-space-spike-away
 title: 'get your personal space: spike away'
-wordpress_id: 5283
+date: 2014-01-15 04:07:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/01/15/get-your-personal-space-spike-away/
+wordpress_id: 5283
 ---
 
 Industrial designer [Siew Ming Cheng](http://www.behance.net/chengsiewming)'s "Spike Away" is your commuter-dream-come-true: a wearable way to guarantee you won't be up close and personal with the next person's breath and music and perfume.

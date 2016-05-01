@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-11-16 02:11:08+00:00
-layout: post
-link: http://ablersite.org/2011/11/15/christine-sun-kim-is-unlearning-sound-etiquette/
-slug: christine-sun-kim-is-unlearning-sound-etiquette
 title: christine sun kim is unlearning sound etiquette
-wordpress_id: 2434
+date: 2011-11-16 02:11:08 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/11/15/christine-sun-kim-is-unlearning-sound-etiquette/
+wordpress_id: 2434
 ---
 
 [![christinekimcloseup](http://ablersite.files.wordpress.com/2011/11/christinekimcloseup.jpg)](http://ablersite.files.wordpress.com/2011/11/christinekimcloseup.jpg)

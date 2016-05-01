@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-06-08 18:46:21+00:00
-layout: post
-link: http://ablersite.org/2010/06/08/re-blog-music-for-deaf-hearers/
-slug: re-blog-music-for-deaf-hearers
 title: "music for deaf \"hearers\"\x9D"
-wordpress_id: 682
+date: 2010-06-08 18:46:21 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/06/08/re-blog-music-for-deaf-hearers/
+wordpress_id: 682
 ---
 
 [![500x_music-for-deaf-people-_03_9GWJy_17621](http://ablersite.files.wordpress.com/2010/06/500x_music-for-deaf-people-_03_9gwjy_17621.jpg)](http://ablersite.files.wordpress.com/2010/06/500x_music-for-deaf-people-_03_9gwjy_17621.jpg)

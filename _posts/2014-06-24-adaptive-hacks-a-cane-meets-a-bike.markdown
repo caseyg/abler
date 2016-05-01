@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-06-24 17:26:32+00:00
-layout: post
-link: http://ablersite.org/2014/06/24/adaptive-hacks-a-cane-meets-a-bike/
-slug: adaptive-hacks-a-cane-meets-a-bike
 title: 'adaptive hacks: a cane meets a bike'
-wordpress_id: 5589
+date: 2014-06-24 17:26:32 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/06/24/adaptive-hacks-a-cane-meets-a-bike/
+wordpress_id: 5589
 ---
 
 [![Liz Jackson's bio shot from her site: a woman sitting on a picnic blanket in the sun, her head and one hand engaged mid-conversation with someone off screen, and the other hand resting on a text: The Future of Disability.](http://ablersite.files.wordpress.com/2014/06/dsc_0598.jpg)](https://ablersite.files.wordpress.com/2014/06/dsc_0598.jpg)

@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-08-31 01:25:50+00:00
-layout: post
-link: http://ablersite.org/2011/08/30/deus-ex-the-eyeborg-documentarian/
-slug: deus-ex-the-eyeborg-documentarian
 title: 'deus ex: the eyeborg documentarian'
-wordpress_id: 2108
+date: 2011-08-31 01:25:50 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/08/30/deus-ex-the-eyeborg-documentarian/
+wordpress_id: 2108
 ---
 
 [![eyeborg](http://ablersite.files.wordpress.com/2011/08/eyeborg1.jpg)](http://ablersite.files.wordpress.com/2011/08/eyeborg1.jpg)

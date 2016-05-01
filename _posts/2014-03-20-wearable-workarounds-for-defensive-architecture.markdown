@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-03-20 20:47:35+00:00
-layout: post
-link: http://ablersite.org/2014/03/20/wearable-workarounds-for-defensive-architecture/
-slug: wearable-workarounds-for-defensive-architecture
 title: wearable workarounds for "defensive architecture"
-wordpress_id: 5414
+date: 2014-03-20 20:47:35 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/03/20/wearable-workarounds-for-defensive-architecture/
+wordpress_id: 5414
 ---
 
 [![Four people wear pale blue, soft knit jogging suits, with soft geometric forms attached to their backs. Each form fits precisely over a designated architectural site, making it possible for a person to perch or sit at that site...](http://ablersite.files.wordpress.com/2014/03/archisuit-all-four.jpg)](http://ablersite.files.wordpress.com/2014/03/archisuit-all-four.jpg)

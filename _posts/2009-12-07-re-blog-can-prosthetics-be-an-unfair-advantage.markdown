@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2009-12-07 01:25:45+00:00
-layout: post
-link: http://ablersite.org/2009/12/06/re-blog-can-prosthetics-be-an-unfair-advantage/
-slug: re-blog-can-prosthetics-be-an-unfair-advantage
-title: ' Can prosthetics be an unfair advantage?'
-wordpress_id: 264
+title: " Can prosthetics be an unfair advantage?"
+date: 2009-12-07 01:25:45 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2009/12/06/re-blog-can-prosthetics-be-an-unfair-advantage/
+wordpress_id: 264
 ---
 
 [![](http://ablersite.files.wordpress.com/2009/12/oscar-pistorius-002.jpg)](http://ablersite.files.wordpress.com/2009/12/oscar-pistorius-002.jpg)

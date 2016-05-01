@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-07-26 00:59:48+00:00
-layout: post
-link: http://ablersite.org/2013/07/26/two-kinds-of-invisibility/
-slug: two-kinds-of-invisibility
 title: two kinds of invisibility
-wordpress_id: 4745
+date: 2013-07-26 00:59:48 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/07/26/two-kinds-of-invisibility/
+wordpress_id: 4745
 ---
 
 George Estreich [reports on his return](http://www.geneticsandsociety.org/article.php?id=7042) from the recent National Down Syndrome Congress in Denver, where he notes "two kinds of invisibility" emerging in the news. The first has to do with the news of a genetic research team [who've been able](http://www.nature.com/news/researchers-turn-off-down-s-syndrome-genes-1.13406)—in the lab, anyway—to use one inserted gene to "silence" the effects of the extra chromosome in the 21st position—the extra one responsible for some of the developmental challenges and heightened medical risks associated with Down syndrome. The claim is that this finding “could help researchers to identify the cellular pathways behind the disorder's symptoms, and to design targeted treatments.”

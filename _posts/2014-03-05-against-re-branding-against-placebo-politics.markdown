@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-03-05 15:02:33+00:00
-layout: post
-link: http://ablersite.org/2014/03/05/against-re-branding-against-placebo-politics/
-slug: against-re-branding-against-placebo-politics
 title: against re-branding; against placebo politics
-wordpress_id: 5366
+date: 2014-03-05 15:02:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/03/05/against-re-branding-against-placebo-politics/
+wordpress_id: 5366
 ---
 
 The [Accessible Icon Project](http://www.accessibleicon.org/) was the subject of the most recent episode of [99% Invisible](http://99percentinvisible.org/episode/icon-for-access/), a podcast about overlooked design and architecture. I spoke at length to the super smart and thoughtful [Lauren Ober](http://www.oberandout.com/) about the project—its history and its aims—and I'm pleased that the show gave its famously perceptive treatment to the work.

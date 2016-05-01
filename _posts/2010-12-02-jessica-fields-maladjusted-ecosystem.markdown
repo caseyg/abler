@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-12-02 14:44:51+00:00
-layout: post
-link: http://ablersite.org/2010/12/02/jessica-fields-maladjusted-ecosystem/
-slug: jessica-fields-maladjusted-ecosystem
 title: Jessica Field's Maladjusted Ecosystem
-wordpress_id: 1266
+date: 2010-12-02 14:44:51 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/12/02/jessica-fields-maladjusted-ecosystem/
+wordpress_id: 1266
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/12/light-emitter.jpg)](http://ablersite.files.wordpress.com/2010/12/light-emitter.jpg)

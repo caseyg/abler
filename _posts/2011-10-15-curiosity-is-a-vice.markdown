@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-10-15 02:46:13+00:00
-layout: post
-link: http://ablersite.org/2011/10/14/curiosity-is-a-vice/
-slug: curiosity-is-a-vice
 title: '"curiosity is a vice"'
-wordpress_id: 2354
+date: 2011-10-15 02:46:13 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/10/14/curiosity-is-a-vice/
+wordpress_id: 2354
 ---
 
 "...that has been stigmatized in turn by Christianity, by philosophy, and even by a certain conception of science. Curiosity, futility. The word, however, pleases me. To me it suggests something altogether different: it evokes "concern"; it evokes the care one takes for what exists and could exist; a readiness to break up our familiarities and to regard otherwise the same things; a fervor to grasp what is happening and what passes; a casualness in regard to the traditional hierarchies of the important and the essential.

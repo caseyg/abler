@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-05-11 23:59:24+00:00
-layout: post
-link: http://ablersite.org/2013/05/11/cane-camera/
-slug: cane-camera
 title: cane camera
-wordpress_id: 4551
+date: 2013-05-11 23:59:24 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/05/11/cane-camera/
+wordpress_id: 4551
 ---
 
 [![canecamera](http://ablersite.files.wordpress.com/2013/05/canecamera.jpg)](http://ablersite.files.wordpress.com/2013/05/canecamera.jpg)

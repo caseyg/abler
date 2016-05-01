@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-08-03 01:19:19+00:00
-layout: post
-link: http://ablersite.org/2012/08/02/magic-arms/
-slug: magic-arms
 title: magic arms
-wordpress_id: 2913
+date: 2012-08-03 01:19:19 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/08/02/magic-arms/
+wordpress_id: 2913
 ---
 
 [![a close up of the 3 year old subject wearing her exoskeleton technology](http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg)](http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg)

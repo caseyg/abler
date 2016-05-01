@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2015-01-05 16:05:13+00:00
-layout: post
-link: http://ablersite.org/2015/01/05/beyond-alt-text-the-new-chief-accessibility-officer/
-slug: beyond-alt-text-the-new-chief-accessibility-officer
 title: 'beyond alt-text: the new "chief accessibility officer"'
-wordpress_id: 5918
+date: 2015-01-05 16:05:13 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2015/01/05/beyond-alt-text-the-new-chief-accessibility-officer/
+wordpress_id: 5918
 ---
 
 ### [![Image: a digital dot matrix wheelchair on a screen, followed by an equal symbol, and the International Symbol of Access. Below it is a partially obscured printed “accessible.” Credit: Jason Eppink on Flickr.](https://ablersite.files.wordpress.com/2015/01/2204490183_ef2e3a6731_o.jpg)](https://ablersite.files.wordpress.com/2015/01/2204490183_ef2e3a6731_o.jpg)

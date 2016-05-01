@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2012-10-08 00:12:15+00:00
-layout: post
-link: http://ablersite.org/2012/10/08/what-can-a-body-do/
-slug: what-can-a-body-do
 title: what can a body do?
-wordpress_id: 4070
+date: 2012-10-08 00:12:15 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2012/10/08/what-can-a-body-do/
+wordpress_id: 4070
 ---
 
 What can a body do? Curator [Amanda Cachia](http://cca-viscrit.com/community/alumni/a-f/amanda-cachia/) has gathered a body of works taking up Deleuze's famous question, opening at Haverford College's [Cantor Fitzgerald Gallery](http://exhibits.haverford.edu/whatcanabodydo/) on 10/26.

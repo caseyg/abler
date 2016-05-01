@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-01-22 19:35:30+00:00
-layout: post
-link: http://ablersite.org/2010/01/22/affinities-graham-pullin/
-slug: affinities-graham-pullin
 title: Graham Pullin on disability and imagination
-wordpress_id: 353
+date: 2010-01-22 19:35:30 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/01/22/affinities-graham-pullin/
+wordpress_id: 353
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/01/pullin_book_interior.jpg)](http://ablersite.files.wordpress.com/2010/01/pullin_book_interior.jpg)

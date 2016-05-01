@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-01-06 17:04:35+00:00
-layout: post
-link: http://ablersite.org/2014/01/06/sequencing-and-synecdoche/
-slug: sequencing-and-synecdoche
 title: sequencing and synecdoche
-wordpress_id: 5264
+date: 2014-01-06 17:04:35 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/01/06/sequencing-and-synecdoche/
+wordpress_id: 5264
 ---
 
 [![4d901f743](http://ablersite.files.wordpress.com/2014/01/4d901f743.jpg)](http://ablersite.files.wordpress.com/2014/01/4d901f743.jpg)

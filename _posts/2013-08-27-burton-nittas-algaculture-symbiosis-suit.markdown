@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-08-27 20:36:58+00:00
-layout: post
-link: http://ablersite.org/2013/08/27/burton-nittas-algaculture-symbiosis-suit/
-slug: burton-nittas-algaculture-symbiosis-suit
 title: burton nitta's "algaculture symbiosis suit"
-wordpress_id: 4779
+date: 2013-08-27 20:36:58 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/08/27/burton-nittas-algaculture-symbiosis-suit/
+wordpress_id: 4779
 ---
 
 The remarkable design duo [Michael Burton and Michiko Nitta](http://www.burtonnitta.co.uk/) have created this wearable for sustenance—the Algaculture Symbiosis Suit. As part of their "After Agri" project, the suit allows its wearer, in effect, to eat sunlight—to feed on algae that would be grown inside the body.

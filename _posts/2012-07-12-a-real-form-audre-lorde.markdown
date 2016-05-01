@@ -1,7 +1,10 @@
 ---
+title: '"a real form" (audre lorde)'
+date: 2012-07-12 15:42:50 Z
+categories:
+- Uncategorized
 author: sarahendren
 comments: true
-date: 2012-07-12 15:42:50+00:00
 excerpt: 'In the most benign of social circumstances, I recently met a plastic surgeon.
   We talked. She was candid and unapologetic about her business: mainly in augmentations
   and reductions for women, of various kinds. She asked about my work—she''s an avid
@@ -9,11 +12,7 @@ excerpt: 'In the most benign of social circumstances, I recently met a plastic s
   be interested in some supplies I have," she said.'
 layout: post
 link: http://ablersite.org/2012/07/12/a-real-form-audre-lorde/
-slug: a-real-form-audre-lorde
-title: '"a real form" (audre lorde)'
 wordpress_id: 2748
-categories:
-- Uncategorized
 ---
 
 [![a black and white photo / xray of a breast implant](http://ablersite.files.wordpress.com/2012/07/breast_implant_xray2.jpg?w=557)](http://ablersite.files.wordpress.com/2012/07/breast_implant_xray2.jpg)

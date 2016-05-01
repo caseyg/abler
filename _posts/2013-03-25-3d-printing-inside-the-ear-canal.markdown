@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-03-25 02:12:59+00:00
-layout: post
-link: http://ablersite.org/2013/03/25/3d-printing-inside-the-ear-canal/
-slug: 3d-printing-inside-the-ear-canal
 title: 3D printing inside the ear canal
-wordpress_id: 4401
+date: 2013-03-25 02:12:59 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/03/25/3d-printing-inside-the-ear-canal/
+wordpress_id: 4401
 ---
 
 [![screen-shot-2013-03-22-at-9-03-29-am-2](http://ablersite.files.wordpress.com/2013/03/screen-shot-2013-03-22-at-9-03-29-am-2.png)](http://ablersite.files.wordpress.com/2013/03/screen-shot-2013-03-22-at-9-03-29-am-2.png)

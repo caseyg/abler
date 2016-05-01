@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-09-16 20:26:21+00:00
-layout: post
-link: http://ablersite.org/2014/09/16/open-style-lab-2/
-slug: open-style-lab-2
 title: open style lab
-wordpress_id: 5733
+date: 2014-09-16 20:26:21 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/09/16/open-style-lab-2/
+wordpress_id: 5733
 ---
 
 [![Grace and Alice, the founders of OPen Style Lab, take questions from the audience at their final presentation.](http://ablersite.files.wordpress.com/2014/08/10522573_775125882510536_1659546665949749475_n.jpg)](https://ablersite.files.wordpress.com/2014/08/10522573_775125882510536_1659546665949749475_n.jpg)

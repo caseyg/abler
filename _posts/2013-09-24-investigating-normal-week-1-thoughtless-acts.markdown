@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2013-09-24 01:02:13+00:00
-layout: post
-link: http://ablersite.org/2013/09/24/investigating-normal-week-1-thoughtless-acts/
-slug: investigating-normal-week-1-thoughtless-acts
 title: 'investigating normal, week 1: thoughtless acts'
-wordpress_id: 4884
+date: 2013-09-24 01:02:13 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2013/09/24/investigating-normal-week-1-thoughtless-acts/
+wordpress_id: 4884
 ---
 
 Last week was Week One of my new course at RISD, [Investigating Normal: Adaptive and Assistive Technologies](http://ablersite.org/investigating-normal/). About half the students are Industrial Design students, grads and undergrads, and about half are in the Digital + Media graduate program.

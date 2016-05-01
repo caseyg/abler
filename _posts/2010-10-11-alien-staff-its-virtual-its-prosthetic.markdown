@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-10-11 17:46:33+00:00
-layout: post
-link: http://ablersite.org/2010/10/11/alien-staff-its-virtual-its-prosthetic/
-slug: alien-staff-its-virtual-its-prosthetic
 title: 'Alien Staff: it''s virtual, it''s prosthetic'
-wordpress_id: 1027
+date: 2010-10-11 17:46:33 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/10/11/alien-staff-its-virtual-its-prosthetic/
+wordpress_id: 1027
 ---
 
 Jim Rossignol's [piece](http://rossignol.cream.org/?p=1061) for Tim Maly's recent project, [50 Posts about Cyborgs](What would the implications be for our culture, Shaviro wonders, if prosthetic had been the dominant metaphor during the information revolution, rather than virtual?), includes this quote from Steven Shaviro's 2003 work, [_Connected, or What it Means to Live in the Network Society_](http://www.amazon.com/Connected-What-Means-Network-Society/dp/0816643628/ref=sr_1_1?ie=UTF8&s=books&qid=1286803907&sr=8-1):

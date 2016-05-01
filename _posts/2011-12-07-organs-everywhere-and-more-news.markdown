@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2011-12-07 17:51:59+00:00
-layout: post
-link: http://ablersite.org/2011/12/07/organs-everywhere-and-more-news/
-slug: organs-everywhere-and-more-news
 title: organs everywhere, and more news
-wordpress_id: 2453
+date: 2011-12-07 17:51:59 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2011/12/07/organs-everywhere-and-more-news/
+wordpress_id: 2453
 ---
 
 My semester at Harvard GSD is winding down; I'll be sharing some new work in the coming break. In January I'll be taking a course at the [Adaptive Design Association](http://adaptivedesign.org/) in New York and interning with [Artists in Context](http://artistsincontext.org/) here in Cambridge. And I'm looking forward to a residency at UC Irvine next June, part of the Critical Disability Studies group that's funded by the University of California's [Humanities Research Institute](http://www.uchri.org/).

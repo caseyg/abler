@@ -1,16 +1,15 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-01-06 15:44:20+00:00
-layout: post
-link: http://ablersite.org/2010/01/06/affinities-eric-gunther/
-slug: affinities-eric-gunther
 title: "eric gunther's \"organorgan\"\x9D"
-wordpress_id: 335
+date: 2010-01-06 15:44:20 Z
 categories:
 - re-blog
 tags:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/01/06/affinities-eric-gunther/
+wordpress_id: 335
 ---
 
 [![organ_02](http://ablersite.files.wordpress.com/2010/01/organ_021.jpg)](http://ablersite.files.wordpress.com/2010/01/organ_021.jpg)

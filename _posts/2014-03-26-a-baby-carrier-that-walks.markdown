@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2014-03-26 18:45:17+00:00
-layout: post
-link: http://ablersite.org/2014/03/26/a-baby-carrier-that-walks/
-slug: a-baby-carrier-that-walks
 title: walking social
-wordpress_id: 5435
+date: 2014-03-26 18:45:17 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2014/03/26/a-baby-carrier-that-walks/
+wordpress_id: 5435
 ---
 
 The [Firefly Upsee](http://www.fireflyfriends.com/) is a walking baby carrier, designed to give the experience of ambulation to children who have motor delays or mobility restrictions. It brings the child upright, anchored closely to a caregiver, while also leaving her hands free to explore and play.

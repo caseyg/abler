@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-05-17 18:31:53+00:00
-layout: post
-link: http://ablersite.org/2010/05/17/broken-tech-art-and-short-shadows/
-slug: broken-tech-art-and-short-shadows
 title: not Luddite but ludic
-wordpress_id: 640
+date: 2010-05-17 18:31:53 Z
 categories:
 - Uncategorized
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/05/17/broken-tech-art-and-short-shadows/
+wordpress_id: 640
 ---
 
 **Svetlana Boym's [Off-Modern Manifesto](http://www.svetlanaboym.com/manifesto.htm) describes her interest in "broken-tech art"—and this is very much at the heart of [my collaborative work on sensory substitution](http://www.ablersite.com/2009/11/projects-search-task/) with Brian Glenney:**

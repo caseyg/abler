@@ -1,14 +1,13 @@
 ---
-author: sarahendren
-comments: true
-date: 2010-11-03 01:41:11+00:00
-layout: post
-link: http://ablersite.org/2010/11/02/the-masticator-confront-your-repulsion/
-slug: the-masticator-confront-your-repulsion
 title: 'the masticator: confront your repulsion'
-wordpress_id: 1156
+date: 2010-11-03 01:41:11 Z
 categories:
 - re-blog
+author: sarahendren
+comments: true
+layout: post
+link: http://ablersite.org/2010/11/02/the-masticator-confront-your-repulsion/
+wordpress_id: 1156
 ---
 
 [![](http://ablersite.files.wordpress.com/2010/11/triptic3x2.jpg)](http://ablersite.files.wordpress.com/2010/11/triptic3x2.jpg)
