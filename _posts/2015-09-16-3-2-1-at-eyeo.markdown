@@ -17,7 +17,7 @@ It was a relief to be able to include some pieces of my own biography. I've stre
 
 Also: It took Eyeo folks some real time and effort to make these accessible. When will captioning and audio description actually get super easy, seamless, automatic? I'm looking at you, young engineers and designers.
 
-\[vimeo 134764010 w=500 h=281\]
+<iframe src="https://player.vimeo.com/video/134764010?color=99cd4f" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Eyeo 2015 – Sara Hendren](https://vimeo.com/134764010) from [Eyeo Festival // INSTINT](https://vimeo.com/eyeofestival) on [Vimeo](https://vimeo.com).
 
