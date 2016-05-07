@@ -3,6 +3,9 @@ title: Abler
 url: http://abler.siteleaf.net
 timezone: UTC
 collections:
+  guides:
+    title: Guides
+    output: true
   posts:
     title: Posts
     output: true
@@ -15,7 +18,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/:title/"
 - scope:
     path: ''
     type: pages
