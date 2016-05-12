@@ -2,4 +2,3 @@ _site/
 .sass-cache
 .jekyll-metadata
 npm-debug.log
-_includes/shared-includes
