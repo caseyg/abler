@@ -1,5 +1,0 @@
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}
-{% endif %}
-
-<p class="byline" >By {% if author.web %}<a class="byline__link" href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}<p>
