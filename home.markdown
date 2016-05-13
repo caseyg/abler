@@ -9,4 +9,4 @@ sandbox:
 layout: home
 ---
 
-Welcome to Abler, it's good you're here. Here's a place to learn about disability, technology, art, and design.
+Welcome to Abler, it's good you're here. Here's a place to learn about disability, technology, art, and design. 
