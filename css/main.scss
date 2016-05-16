@@ -1,7 +1,10 @@
 ---
 ---
 
-@import "shared-styles/atoms/colors/default";
-@import "shared-styles/atoms/palettes/black-on-white";
+@import "colors";
+@import "palette";
 
 @import "shared-styles/shared";
+
+@import "layout";
+@import "nav";
