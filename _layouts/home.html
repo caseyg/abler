@@ -1,7 +1,8 @@
-{% include shared-includes/organisms/global/header.html %}
+---
+layout: default
+---
+{% include shared-includes/molecules/text/lead.html text=page.content %}
 
 {% include shared-includes/molecules/media/sandbox.html %}
 
-{% include shared-includes/molecules/text/lead.html text=page.content %}
-
-{% include shared-includes/organisms/global/footer.html %}
+{{ page.content | markdownify }}
