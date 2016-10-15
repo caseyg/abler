@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-{% include shared-includes/molecules/text/lead.html text=page.content %}
 
-{% include shared-includes/molecules/media/sandbox.html %}
-
-{{ page.content | markdownify }}
+<main class="main">
+	<div class="content">
+		{% include shared-includes/lead.html text=page.content %}
+  </div>
+</main>

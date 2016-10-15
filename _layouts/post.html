@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
-{% include shared-includes/molecules/blocks/headlinewithbyline.html %}
 
-{{ page.content }}
+{% assign item = page %}
+<main class="main">
+  <div class="content">
+    <article class="article article--center article--noimage">
+      {% include shared-includes/title-headline.html %}
+      {% include shared-includes/byline.html %}
+      {% include shared-includes/date-month-day-year.html %}
+      {{ page.content | markdownify }}
+      {% include shared-includes/page.html %}
+    </article>
+  </div>
+</main>
